@@ -6,7 +6,7 @@ post_date: 2015-12-22 12:58:46
 post_excerpt: ""
 layout: page
 permalink: >
-  http://josh-wp-microsite.pantheon.io/elastic-architecutre/
+  https://scalewp.io/elastic-architecutre/
 published: true
 qode_animate-page-title:
   - 'no'
@@ -18,26 +18,23 @@ qode_show-sidebar:
 This is where we will talk about Elastic Architecture.
 
 <div class="bulletbox bb-left">
-
-## Title goes up here ##
-
+<h2>Title goes up here</h2>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur facilisis lorem ac ullamcorper vehicula. Nunc a semper tortor. Integer et eleifend quam. Mauris eu commodo sapien.
-
-- First item
-- Item 2
-- Item the third
-
+<ul>
+  <li>First item</li>
+  <li>Item 2</li>
+  <li>Item the third</li>
+</ul>
 </div>
 <div class="bulletbox bb-right">
+<h2>Another one over here</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur facilisis lorem ac ullamcorper vehicula. Nunc a semper tortor. Integer et eleifend quam. Mauris eu commodo sapien.</p>
 
-## Another one over here ##
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur facilisis lorem ac ullamcorper vehicula. Nunc a semper tortor. Integer et eleifend quam. Mauris eu commodo sapien.
-
-- First item
-- Item 2
-- Item the third
-
+<ul>
+  <li>First item</li>
+  <li>Item 2</li>
+  <li>Item the third</li>
+</ul>
 </div>
 
 This is an edit made on GitHub.
