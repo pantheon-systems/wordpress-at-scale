@@ -43,7 +43,8 @@ This is an edit made on GitHub.
 
 [link-library settings="1" categorylistoverride="9"]
 
-<a class="loopnext" href="/elastic-architecture/"><i class="fa fa-angle-down"></i></a>
-<div class="pageloop" id="id11">
-<div>ELASTIC ARCHITECTURE</div>
-
+<div>
+  <a class="loopnext" href="/elastic-architecture/"><i class="fa fa-angle-down"></i></a>
+  <div class="pageloop" id="id11">
+  <div>ELASTIC ARCHITECTURE</div>
+</div>
