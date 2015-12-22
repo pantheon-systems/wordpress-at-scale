@@ -13,8 +13,9 @@ qode_animate-page-title:
 qode_show-sidebar:
   - default
 ---
+## Horizontal Scalability is the Scalability that Matters ##
+
 This is where we will talk about Elastic Architecture.
 
 This is an edit made on GitHub.
 
-## With Headers! ##
