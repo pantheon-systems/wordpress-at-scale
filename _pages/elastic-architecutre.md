@@ -39,3 +39,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur facilisis lor
 
 This is an edit made on GitHub.
 
+<!-- This is navigation stuff. Don't edit below here. -->
+[do_widget_area]
+[link-library settings="1" categorylistoverride="9"]
+
+<a class="loopnext" href="/elastic-architecture/"><i class="fa fa-angle-down"></i></a>
+<div class="pageloop" id="id11">
+<div>ELASTIC ARCHITECTURE</div>
+
