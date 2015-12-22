@@ -62,11 +62,8 @@ This is an edit made on GitHub.
 
 The below nav was added in WP admin.
 
-[do_widget_area]
 
-[link-library settings="1" categorylistoverride="9"]
-
-<a class="loopnext" href="/elastic-architecture/"><i class="fa fa-angle-down">&nbsp;</i></a>
+<div><a class="loopnext" href="/elastic-architecture/"><i class="fa fa-angle-down">&nbsp;</i></a></div>
 
 <div class="pageloop" id="id11">
 
