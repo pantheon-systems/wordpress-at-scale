@@ -18,23 +18,26 @@ qode_show-sidebar:
 This is where we will talk about Elastic Architecture.
 
 <div class="bulletbox bb-left">
-<h2>Title goes up here</h2>
+
+## Title goes up here ##
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur facilisis lorem ac ullamcorper vehicula. Nunc a semper tortor. Integer et eleifend quam. Mauris eu commodo sapien.
-<ul>
-  <li>First item</li>
-  <li>Item 2</li>
-  <li>Item the third</li>
-</ul>
+
+- First item
+- Item 2
+- Item the third
+
 </div>
 <div class="bulletbox bb-right">
-<h2>Another one over here</h2>
-<p class="p1"><span class="s1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur facilisis lorem ac ullamcorper vehicula. Nunc a semper tortor. Integer et eleifend quam. Mauris eu commodo sapien.</span></p>
 
-<ul>
-  <li>First item</li>
-  <li>Item 2</li>
-  <li>Item the third</li>
-</ul>
+## Another one over here ##
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur facilisis lorem ac ullamcorper vehicula. Nunc a semper tortor. Integer et eleifend quam. Mauris eu commodo sapien.
+
+- First item
+- Item 2
+- Item the third
+
 </div>
 
 This is an edit made on GitHub.
