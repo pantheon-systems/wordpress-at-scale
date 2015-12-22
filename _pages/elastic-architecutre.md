@@ -39,8 +39,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur facilisis lor
 
 This is an edit made on GitHub.
 
-<!-- This is navigation stuff. Don't edit below here. -->
-
 [do_widget_area]
 
 [link-library settings="1" categorylistoverride="9"]
