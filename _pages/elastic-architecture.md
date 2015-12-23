@@ -1,26 +1,8 @@
 ---
 ID: 11
 post_title: Elastic Architecture
-author:
-  - 'a:1:{i:0;s:58:"a:1:{i:0;s:40:"a:1:{i:0;s:22:"a:1:{i:0;s:5:"admin";}";}";}";}'
-post_date:
-  - 'a:1:{i:0;s:73:"a:1:{i:0;s:55:"a:1:{i:0;s:37:"a:1:{i:0;s:19:"2015-12-04 09:59:36";}";}";}";}'
-post_excerpt:
-  - 'a:1:{i:0;s:53:"a:1:{i:0;s:35:"a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}";}";}'
 layout: page
-permalink:
-  - 'a:1:{i:0;s:76:"a:1:{i:0;s:58:"a:1:{i:0;s:40:"a:1:{i:0;s:22:"/elastic-architecture/";}";}";}";}'
 published: true
-qode_show-sidebar:
-  - default
-qode_page-title-color:
-  - Array
-qode_title-image:
-  - Array
-qode_title-height:
-  - 'Warning: htmlspecialchars() expects parameter 1 to be string, array given in /srv/bindings/37fb02e198e441baa11ec65580c9840c/code/wp-content/themes/bridge/framework/lib/qode.layout.php on line 512'
-qode_animate-page-title:
-  - 'no'
 ---
 <a class="loopback" href="/">J</a>
 

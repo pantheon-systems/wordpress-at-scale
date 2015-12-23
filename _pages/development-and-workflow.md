@@ -1,26 +1,8 @@
 ---
 ID: 22
 post_title: Development and Workflow
-author:
-  - 'a:1:{i:0;s:22:"a:1:{i:0;s:5:"admin";}";}'
-post_date:
-  - 'a:1:{i:0;s:37:"a:1:{i:0;s:19:"2015-12-04 10:39:18";}";}'
-post_excerpt:
-  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
 layout: page
-permalink:
-  - 'a:1:{i:0;s:44:"a:1:{i:0;s:26:"/development-and-workflow/";}";}'
 published: true
-qode_show-sidebar:
-  - default
-qode_page-title-color:
-  - Array
-qode_title-image:
-  - Array
-qode_title-height:
-  - 'Warning: htmlspecialchars() expects parameter 1 to be string, array given in /srv/bindings/37fb02e198e441baa11ec65580c9840c/code/wp-content/themes/bridge/framework/lib/qode.layout.php on line 512'
-qode_animate-page-title:
-  - 'no'
 ---
 <a class="loopback" href="/a-real-world-scalable-architecture/">J</a>
 

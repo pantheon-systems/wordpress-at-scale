@@ -3,14 +3,9 @@ ID: 7
 post_title: WordPress at Scale
 layout: page
 published: true
-qode_seo_title:
-  - How to Run WordPress Sites at Scale
-qode_seo_keywords:
-  - wordpress, scalability
-qode_seo_description:
-  - >
-    The 6 essential components for running a
-    scalable WordPress site.
+qode_seo_title: How to Run WordPress Sites at Scale
+qode_seo_keywords: wordpress, scalability
+qode_seo_description: The 6 essential components for running a scalable WordPress site.
 ---
 <div id="wpas">
 </div>

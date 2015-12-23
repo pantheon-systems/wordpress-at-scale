@@ -1,27 +1,8 @@
 ---
 ID: 13
 post_title: Page Caching
-author:
-  - 'a:1:{i:0;s:22:"a:1:{i:0;s:5:"admin";}";}'
-post_date:
-  - 'a:1:{i:0;s:37:"a:1:{i:0;s:19:"2015-12-04 10:00:19";}";}'
-post_excerpt:
-  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
 layout: page
-permalink:
-  - 'a:1:{i:0;s:32:"a:1:{i:0;s:14:"/page-caching/";}";}'
 published: true
-qode_show-sidebar:
-  - default
-qode_page-title-color:
-  - Array
-qode_title-image:
-  - >
-    http://dev-wp-microsite.pantheon.io/wp-content/uploads/2015/12/PageCaching.jpg
-qode_title-height:
-  - 'Warning: htmlspecialchars() expects parameter 1 to be string, array given in /srv/bindings/37fb02e198e441baa11ec65580c9840c/code/wp-content/themes/bridge/framework/lib/qode.layout.php on line 512'
-qode_animate-page-title:
-  - 'no'
 ---
 <a class="loopback" href="/elastic-architecture/">J</a>
 

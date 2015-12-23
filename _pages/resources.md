@@ -11,16 +11,6 @@ layout: page
 permalink:
   - /resources/
 published: true
-qode_page-title-color:
-  - Array
-qode_title-image:
-  - Array
-qode_title-height:
-  - 'Warning: htmlspecialchars() expects parameter 1 to be string, array given in /srv/bindings/37fb02e198e441baa11ec65580c9840c/code/wp-content/themes/bridge/framework/lib/qode.layout.php on line 512'
-qode_show-sidebar:
-  - default
-qode_animate-page-title:
-  - 'no'
 ---
 # Resources   
 
