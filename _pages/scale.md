@@ -77,7 +77,7 @@ In order for your WordPress website to scale and meet the demands of your growin
 
 Confident your WordPress implementation has all these things? Congrats!
 
-Want to learn more about these techniques? Read on!
+Want to learn more about these techniques? Read on.
 
 [do_widget_area]
 
