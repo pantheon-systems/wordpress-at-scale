@@ -8,8 +8,6 @@ post_date:
 post_excerpt:
   - 'a:1:{i:0;s:35:"a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}";}'
 layout: page
-permalink:
-  - 'a:1:{i:0;s:62:"a:1:{i:0;s:44:"a:1:{i:0;s:26:"/development-and-workflow/";}";}";}'
 published: true
 qode_show-sidebar:
   - 'a:1:{i:0;s:7:"default";}'

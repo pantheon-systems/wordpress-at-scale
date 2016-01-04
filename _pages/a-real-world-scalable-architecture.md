@@ -8,8 +8,6 @@ post_date:
 post_excerpt:
   - 'a:1:{i:0;s:35:"a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}";}'
 layout: page
-permalink:
-  - 'a:1:{i:0;s:72:"a:1:{i:0;s:54:"a:1:{i:0;s:36:"/a-real-world-scalable-architecture/";}";}";}'
 published: true
 qode_show-sidebar:
   - 'a:1:{i:0;s:7:"default";}'

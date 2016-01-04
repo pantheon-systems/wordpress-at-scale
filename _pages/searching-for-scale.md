@@ -8,8 +8,6 @@ post_date:
 post_excerpt:
   - ""
 layout: page
-permalink:
-  - /searching-for-scale/
 published: true
 qode_animate-page-title:
   - 'a:1:{i:0;s:2:"no";}'

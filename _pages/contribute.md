@@ -8,8 +8,6 @@ post_date:
 post_excerpt:
   - 'a:1:{i:0;s:35:"a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}";}'
 layout: page
-permalink:
-  - 'a:1:{i:0;s:48:"a:1:{i:0;s:30:"a:1:{i:0;s:12:"/contribute/";}";}";}'
 published: true
 qode_show-sidebar:
   - 'a:1:{i:0;s:7:"default";}'

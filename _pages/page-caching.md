@@ -8,8 +8,6 @@ post_date:
 post_excerpt:
   - 'a:1:{i:0;s:35:"a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}";}'
 layout: page
-permalink:
-  - 'a:1:{i:0;s:50:"a:1:{i:0;s:32:"a:1:{i:0;s:14:"/page-caching/";}";}";}'
 published: true
 qode_show-sidebar:
   - 'a:1:{i:0;s:7:"default";}'

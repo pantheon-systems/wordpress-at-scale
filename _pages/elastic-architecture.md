@@ -8,8 +8,6 @@ post_date:
 post_excerpt:
   - 'a:1:{i:0;s:71:"a:1:{i:0;s:53:"a:1:{i:0;s:35:"a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}";}";}";}'
 layout: page
-permalink:
-  - 'a:1:{i:0;s:94:"a:1:{i:0;s:76:"a:1:{i:0;s:58:"a:1:{i:0;s:40:"a:1:{i:0;s:22:"/elastic-architecture/";}";}";}";}";}'
 published: true
 qode_show-sidebar:
   - 'a:1:{i:0;s:7:"default";}'

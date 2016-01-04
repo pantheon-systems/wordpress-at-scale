@@ -8,8 +8,6 @@ post_date:
 post_excerpt:
   - ""
 layout: page
-permalink:
-  - /contributors/
 published: true
 ---
 A list of contributors to the website will go here.

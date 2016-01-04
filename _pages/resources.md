@@ -8,8 +8,6 @@ post_date:
 post_excerpt:
   - 'a:1:{i:0;s:0:"";}'
 layout: page
-permalink:
-  - 'a:1:{i:0;s:11:"/resources/";}'
 published: true
 qode_page-title-color:
   - 'a:1:{i:0;s:5:"Array";}'
