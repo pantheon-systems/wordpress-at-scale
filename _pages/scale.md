@@ -11,8 +11,6 @@ layout: page
 published: true
 qode_show-sidebar:
   - default
-qode_page-title-color:
-  - Array
 qode_page_subtitle_color:
   - Array
 qode_revolution-slider:

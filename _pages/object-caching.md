@@ -11,8 +11,6 @@ layout: page
 published: true
 qode_show-sidebar:
   - 'a:1:{i:0;s:7:"default";}'
-qode_page-title-color:
-  - 'a:1:{i:0;s:5:"Array";}'
 qode_title-image:
   - 'a:1:{i:0;s:5:"Array";}'
 qode_title-height:

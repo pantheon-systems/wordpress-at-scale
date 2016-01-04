@@ -9,8 +9,6 @@ post_excerpt:
   - 'a:1:{i:0;s:0:"";}'
 layout: page
 published: true
-qode_page-title-color:
-  - 'a:1:{i:0;s:5:"Array";}'
 qode_title-image:
   - 'a:1:{i:0;s:5:"Array";}'
 qode_title-height:
