@@ -2,8 +2,6 @@
 ID: 16
 post_title: Object Caching
 layout: page
-permalink:
-  - 'a:1:{i:0;s:52:"a:1:{i:0;s:34:"a:1:{i:0;s:16:"/object-caching/";}";}";}'
 published: true
 ---
 <a class="loopback" href="/page-caching/">J</a>

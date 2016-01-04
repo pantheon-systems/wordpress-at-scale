@@ -2,8 +2,6 @@
 ID: 18
 post_title: Query Performance
 layout: page
-permalink:
-  - 'a:1:{i:0;s:91:"a:1:{i:0;s:73:"a:1:{i:0;s:55:"a:1:{i:0;s:37:"a:1:{i:0;s:19:"/query-performance/";}";}";}";}";}'
 published: true
 ---
 <a class="loopback" href="/object-caching/">J</a>
