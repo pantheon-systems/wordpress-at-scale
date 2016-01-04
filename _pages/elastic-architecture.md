@@ -24,7 +24,7 @@ qode_animate-page-title:
 
 ## Horizontal Scalability is the Scalability That Matters
 
-The key to running a WordPress site that can handle a large amount of traffic consistently, without risking downtime, is an elastic architecture. Simply put, this means the ability to run the website on many machines at once. Your website *must* transcend a single server in order to scale.
+TEST - The key to running a WordPress site that can handle a large amount of traffic consistently, without risking downtime, is an elastic architecture. Simply put, this means the ability to run the website on many machines at once. Your website *must* transcend a single server in order to scale.
 
 With an elastic architecture, when traffic increases, you can provision more machines to run your website. When traffic has calmed down a bit, you can save resources and turn off your extra capacity. Without an elastic architecture, your website is inherently not scalable.
 
