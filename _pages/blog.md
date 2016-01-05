@@ -1,10 +1,9 @@
 ---
 ID: 30
-post_title:
-  - ' permalink _sha'
+post_title: Blog
 layout: page
 permalink: >
-  http://persch-gh-wp-microsite.pantheon.io/blog/
+  http://persch-gh2-wp-microsite.pantheon.io/blog/
 published: true
 ---
 Blog goes here

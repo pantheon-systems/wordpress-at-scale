@@ -1,10 +1,9 @@
 ---
 ID: 395
-post_title:
-  - ' permalink _sha'
+post_title: Contributors
 layout: page
 permalink: >
-  http://persch-gh-wp-microsite.pantheon.io/contributors/
+  http://persch-gh2-wp-microsite.pantheon.io/contributors/
 published: true
 ---
 A list of contributors to the website will go here.
