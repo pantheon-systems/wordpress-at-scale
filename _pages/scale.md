@@ -6,27 +6,14 @@ post_title:
     qode_revolution-slider qode_seo_title
     qode_seo_keywords qode_seo_description
     _sha
-author:
-  - 'a:1:{i:0;s:112:"a:1:{i:0;s:94:"a:1:{i:0;s:76:"a:1:{i:0;s:58:"a:1:{i:0;s:40:"a:1:{i:0;s:22:"a:1:{i:0;s:5:"admin";}";}";}";}";}";}";}'
-post_date:
-  - 'a:1:{i:0;s:128:"a:1:{i:0;s:109:"a:1:{i:0;s:91:"a:1:{i:0;s:73:"a:1:{i:0;s:55:"a:1:{i:0;s:37:"a:1:{i:0;s:19:"2015-12-04 09:54:57";}";}";}";}";}";}";}'
-post_excerpt:
-  - 'a:1:{i:0;s:107:"a:1:{i:0;s:89:"a:1:{i:0;s:71:"a:1:{i:0;s:53:"a:1:{i:0;s:35:"a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}";}";}";}";}";}'
 layout: page
-permalink:
-  - >
-    /-permalink-qode_page_subtitle_color-qode_revolution-slider-qode_seo_title-qode_seo_keywords-qode_seo_description-_sha
+permalink: >
+  http://persch-gh-wp-microsite.pantheon.io/
 published: true
-qode_show-sidebar:
-  - default
-qode_page-title-color:
-  - Array
 qode_page_subtitle_color:
   - 'a:1:{i:0;s:22:"a:1:{i:0;s:5:"Array";}";}'
 qode_revolution-slider:
   - 'a:1:{i:0;s:214:"a:1:{i:0;s:195:"Warning: htmlspecialchars() expects parameter 1 to be string, array given in /srv/bindings/37fb02e198e441baa11ec65580c9840c/code/wp-content/themes/bridge/framework/lib/qode.layout.php on line 512";}";}'
-qode_animate-page-title:
-  - 'no'
 qode_seo_title:
   - 'a:1:{i:0;s:53:"a:1:{i:0;s:35:"How to Run WordPress Sites at Scale";}";}'
 qode_seo_keywords:
