@@ -7,7 +7,3 @@ permalink: >
 published: true
 ---
 New Text goes here
-
-## You can use headings.
-
-We need a way to add images.
