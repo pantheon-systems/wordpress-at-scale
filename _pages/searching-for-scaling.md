@@ -3,7 +3,7 @@ ID: 382
 post_title: Searching for Scale
 layout: page
 permalink: >
-  http://persch-gh-wp-microsite.pantheon.io/searching-for-scale/
+  http://persch-gh-wp-microsite.pantheon.io/searching-for-scaling/
 published: true
 ---
 <a class="loopback" href="/query-performance/">J</a>
