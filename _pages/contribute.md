@@ -16,7 +16,7 @@ Make a PR
 
 Here is an example of text that would go in `/_pages/new-file.md`.
 
-```
+<code>
 ---
 post_title: New File
 layout: page
@@ -27,8 +27,13 @@ New Text goes here
 
 ## You can use headings.
 
-We need a way to add images.
-```
+@todo We need a way to add images.
+<code>
+
+@todo figure out why ``` does not work.
+
+
+
 
 ## Adding tags
 
