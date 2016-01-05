@@ -4,17 +4,15 @@ post_title: WordPress at Scale
 layout: page
 published: true
 qode_page_subtitle_color:
-  - Array
+  - 'a:1:{i:0;s:5:"Array";}'
 qode_revolution-slider:
-  - 'Warning: htmlspecialchars() expects parameter 1 to be string, array given in /srv/bindings/37fb02e198e441baa11ec65580c9840c/code/wp-content/themes/bridge/framework/lib/qode.layout.php on line 512'
+  - 'a:1:{i:0;s:195:"Warning: htmlspecialchars() expects parameter 1 to be string, array given in /srv/bindings/37fb02e198e441baa11ec65580c9840c/code/wp-content/themes/bridge/framework/lib/qode.layout.php on line 512";}'
 qode_seo_title:
-  - How to Run WordPress Sites at Scale
+  - 'a:1:{i:0;s:35:"How to Run WordPress Sites at Scale";}'
 qode_seo_keywords:
-  - wordpress, scalability
+  - 'a:1:{i:0;s:22:"wordpress, scalability";}'
 qode_seo_description:
-  - >
-    The 6 essential components for running a
-    scalable WordPress site.
+  - 'a:1:{i:0;s:65:"The 6 essential components for running a scalable WordPress site.";}'
 ---
 <div id="wpas">
 </div>
