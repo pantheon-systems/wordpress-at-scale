@@ -1,7 +1,6 @@
 ---
 ID: 395
-post_title:
-  - ' permalink _sha'
+post_title: Contributors
 layout: page
 permalink: >
   http://persch-gh-wp-microsite.pantheon.io/contributors/
