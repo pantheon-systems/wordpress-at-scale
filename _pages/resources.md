@@ -1,11 +1,6 @@
 ---
 ID: 200
-post_title: |
-  |
-    ResourcesArray
-    (
-        [0] => a:1:{i:0;s:11:"/resources/";}
-    )
+post_title: Resources
 layout: page
 permalink:
   - 'a:1:{i:0;s:11:"/resources/";}'

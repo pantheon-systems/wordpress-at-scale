@@ -1,11 +1,6 @@
 ---
 ID: 395
-post_title: |
-  |
-    ContributorsArray
-    (
-        [0] => /contributors/
-    )
+post_title: Contributors
 layout: page
 permalink:
   - /contributors/

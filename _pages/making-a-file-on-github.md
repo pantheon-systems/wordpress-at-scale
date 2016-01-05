@@ -1,8 +1,6 @@
 ---
 ID: 409
-post_title: >
-  Making a File on
-  Githubhttp://persch-gh-wp-microsite.pantheon.io/making-a-file-on-github/
+post_title: Making a File on Github
 layout: page
 permalink: >
   http://persch-gh-wp-microsite.pantheon.io/making-a-file-on-github/
