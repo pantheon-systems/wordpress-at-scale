@@ -1,10 +1,9 @@
 ---
 ID: 13
-post_title:
-  - ' permalink _sha'
+post_title: Page Caching
 layout: page
 permalink: >
-  http://persch-gh-wp-microsite.pantheon.io/page-caching/
+  http://persch-gh2-wp-microsite.pantheon.io/page-caching/
 published: true
 ---
 <a class="loopback" href="/elastic-architecture/">J</a>
@@ -13,7 +12,7 @@ published: true
 
 ## The Key To Internet-Scale Traffic is Reverse-Proxy Caching
 
-TEST - Everyone using WordPress knows caching needs to be a part of their performance and scalability strategy, which is why there are several cache-oriented tools in the top 10 list of WordPress plugins. However, WordPress will never scale if WordPress does all the work.
+Everyone using WordPress knows caching needs to be a part of their performance and scalability strategy, which is why there are several cache-oriented tools in the top 10 list of WordPress plugins. However, WordPress will never scale if WordPress does all the work.
 
 The front page of a vanilla WordPress installation with one post requires billions of CPU instructions. Even with the fastest processors and the most highly optimized site, a caching approach that still requires loading the application on every request isn’t a scalable solution.
 
