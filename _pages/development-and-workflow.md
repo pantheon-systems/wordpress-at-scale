@@ -1,6 +1,11 @@
 ---
 ID: 22
-post_title: Development and Workflow
+post_title: |
+  |
+    Development and WorkflowArray
+    (
+        [0] => a:1:{i:0;s:62:"a:1:{i:0;s:44:"a:1:{i:0;s:26:"/development-and-workflow/";}";}";}
+    )
 layout: page
 permalink:
   - 'a:1:{i:0;s:62:"a:1:{i:0;s:44:"a:1:{i:0;s:26:"/development-and-workflow/";}";}";}'

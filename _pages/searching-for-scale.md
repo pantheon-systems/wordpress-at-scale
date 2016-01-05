@@ -1,6 +1,11 @@
 ---
 ID: 382
-post_title: Searching for Scale
+post_title: |
+  |
+    Searching for ScaleArray
+    (
+        [0] => /searching-for-scale/
+    )
 layout: page
 permalink:
   - /searching-for-scale/
