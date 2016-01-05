@@ -1,11 +1,9 @@
 ---
 ID: 200
-post_title: >
-  Resources
-  http://persch-gh-wp-microsite.pantheon.io/resources/
+post_title: Resources
 layout: page
-permalink:
-  - 'a:1:{i:0;s:11:"/resources/";}'
+permalink: >
+  http://persch-gh-wp-microsite.pantheon.io/resources/
 published: true
 ---
 # Resources  

@@ -1,11 +1,9 @@
 ---
 ID: 20
-post_title: >
-  A Real-World Scalable Architecture
-  http://persch-gh-wp-microsite.pantheon.io/a-real-world-scalable-architecture/
+post_title: A Real-World Scalable Architecture
 layout: page
-permalink:
-  - 'a:1:{i:0;s:72:"a:1:{i:0;s:54:"a:1:{i:0;s:36:"/a-real-world-scalable-architecture/";}";}";}'
+permalink: >
+  http://persch-gh-wp-microsite.pantheon.io/a-real-world-scalable-architecture/
 published: true
 ---
 <a class="loopback" href="/query-performance/">J</a>

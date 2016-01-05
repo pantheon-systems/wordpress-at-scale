@@ -1,11 +1,9 @@
 ---
 ID: 7
-post_title: >
-  WordPress at Scale
-  http://persch-gh-wp-microsite.pantheon.io/
+post_title: WordPress at Scale
 layout: page
-permalink:
-  - 'a:1:{i:0;s:146:"a:1:{i:0;s:127:"a:1:{i:0;s:108:"a:1:{i:0;s:90:"a:1:{i:0;s:72:"a:1:{i:0;s:54:"a:1:{i:0;s:36:"a:1:{i:0;s:18:"a:1:{i:0;s:1:"/";}";}";}";}";}";}";}";}";}'
+permalink: >
+  http://persch-gh-wp-microsite.pantheon.io/
 published: true
 qode_page_subtitle_color:
   - 'a:1:{i:0;s:5:"Array";}'

@@ -1,11 +1,9 @@
 ---
 ID: 16
-post_title: >
-  Object Caching
-  http://persch-gh-wp-microsite.pantheon.io/object-caching/
+post_title: Object Caching
 layout: page
-permalink:
-  - 'a:1:{i:0;s:52:"a:1:{i:0;s:34:"a:1:{i:0;s:16:"/object-caching/";}";}";}'
+permalink: >
+  http://persch-gh-wp-microsite.pantheon.io/object-caching/
 published: true
 ---
 <a class="loopback" href="/page-caching/">J</a>
