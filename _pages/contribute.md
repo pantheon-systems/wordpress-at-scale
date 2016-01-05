@@ -16,6 +16,7 @@ Make a PR
 
 Here is an example of text that would go in `/_pages/new-file.md`.
 
+<div><code>
   ---
   post_title: New File
   layout: page
@@ -28,6 +29,7 @@ Here is an example of text that would go in `/_pages/new-file.md`.
 
   @todo We need a way to add images.
 
+</code></div>
 
 @todo figure out why ``` does not work in the wordpress markdown conversion.
 
