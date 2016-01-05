@@ -1,14 +1,26 @@
 ---
 ID: 7
 post_title: WordPress at Scale
+author:
+  - 'a:1:{i:0;s:112:"a:1:{i:0;s:94:"a:1:{i:0;s:76:"a:1:{i:0;s:58:"a:1:{i:0;s:40:"a:1:{i:0;s:22:"a:1:{i:0;s:5:"admin";}";}";}";}";}";}";}'
+post_date:
+  - 'a:1:{i:0;s:128:"a:1:{i:0;s:109:"a:1:{i:0;s:91:"a:1:{i:0;s:73:"a:1:{i:0;s:55:"a:1:{i:0;s:37:"a:1:{i:0;s:19:"2015-12-04 09:54:57";}";}";}";}";}";}";}'
+post_excerpt:
+  - 'a:1:{i:0;s:107:"a:1:{i:0;s:89:"a:1:{i:0;s:71:"a:1:{i:0;s:53:"a:1:{i:0;s:35:"a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}";}";}";}";}";}'
 layout: page
-permalink: >
-  http://persch-gh2-wp-microsite.pantheon.io/
+permalink:
+  - 'a:1:{i:0;s:146:"a:1:{i:0;s:127:"a:1:{i:0;s:108:"a:1:{i:0;s:90:"a:1:{i:0;s:72:"a:1:{i:0;s:54:"a:1:{i:0;s:36:"a:1:{i:0;s:18:"a:1:{i:0;s:1:"/";}";}";}";}";}";}";}";}";}'
 published: true
+qode_show-sidebar:
+  - default
+qode_page-title-color:
+  - Array
 qode_page_subtitle_color:
   - Array
 qode_revolution-slider:
   - 'Warning: htmlspecialchars() expects parameter 1 to be string, array given in /srv/bindings/37fb02e198e441baa11ec65580c9840c/code/wp-content/themes/bridge/framework/lib/qode.layout.php on line 512'
+qode_animate-page-title:
+  - 'no'
 qode_seo_title:
   - How to Run WordPress Sites at Scale
 qode_seo_keywords:
