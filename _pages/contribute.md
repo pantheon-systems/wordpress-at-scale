@@ -8,4 +8,6 @@ published: true
 ---
 Rules for contributing will go here.
 
+## Adding tags
+
 <a class="long-box" href="https://github.com/pantheon-systems/wpas">Contribute to WordPress at Scale on GitHub</a>  
