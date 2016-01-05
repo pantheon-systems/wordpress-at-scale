@@ -6,4 +6,4 @@ permalink: >
   http://persch-gh2-wp-microsite.pantheon.io/contributors/
 published: true
 ---
-A list of contributors to the website will go here. test
+A list of contributors to the website will go here.
