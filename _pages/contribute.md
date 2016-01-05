@@ -1,7 +1,9 @@
 ---
+ID: 27
 post_title: Contribute
 layout: page
-permalink: false
+permalink: >
+  http://persch-gh2-wp-microsite.pantheon.io/contribute/
 published: true
 ---
 Rules for contributing will go here.

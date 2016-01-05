@@ -1,7 +1,9 @@
 ---
+ID: 7
 post_title: WordPress at Scale
 layout: page
-permalink: false
+permalink: >
+  http://persch-gh2-wp-microsite.pantheon.io/
 published: true
 ---
 <div id="wpas">

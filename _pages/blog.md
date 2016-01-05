@@ -1,7 +1,9 @@
 ---
+ID: 30
 post_title: Blog
 layout: page
-permalink: false
+permalink: >
+  http://persch-gh2-wp-microsite.pantheon.io/blog/
 published: true
 ---
 Blog goes here

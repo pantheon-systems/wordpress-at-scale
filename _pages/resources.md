@@ -1,7 +1,9 @@
 ---
+ID: 200
 post_title: Resources
 layout: page
-permalink: false
+permalink: >
+  http://persch-gh2-wp-microsite.pantheon.io/resources/
 published: true
 ---
 # Resources  

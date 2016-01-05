@@ -1,7 +1,9 @@
 ---
+ID: 22
 post_title: Development and Workflow
 layout: page
-permalink: false
+permalink: >
+  http://persch-gh2-wp-microsite.pantheon.io/development-and-workflow/
 published: true
 ---
 <a class="loopback" href="/a-real-world-scalable-architecture/">J</a>
