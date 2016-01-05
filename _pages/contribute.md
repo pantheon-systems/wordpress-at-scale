@@ -17,17 +17,17 @@ Make a PR
 Here is an example of text that would go in `/_pages/new-file.md`.
 
 ```
-+---
- +post_title: New File
- +layout: page
- +published: true
- +---
- +
- +New Text goes here
- +
- +## You can use headings.
- +
- +We need a way to add images.
+---
+post_title: New File
+layout: page
+published: true
+---
+
+New Text goes here
+
+## You can use headings.
+
+We need a way to add images.
 ```
 
 ## Adding tags
