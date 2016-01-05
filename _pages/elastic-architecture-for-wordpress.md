@@ -3,7 +3,7 @@ ID: 11
 post_title: Elastic Architecture
 layout: page
 permalink: >
-  http://persch-gh-wp-microsite.pantheon.io/elastic-architecture/
+  http://persch-gh-wp-microsite.pantheon.io/elastic-architecture-for-wordpress/
 published: true
 ---
 <a class="loopback" href="/">J</a>
