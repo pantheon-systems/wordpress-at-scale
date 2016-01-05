@@ -1,9 +1,7 @@
 ---
-ID: 382
 post_title: Searching for Scale
 layout: page
-permalink: >
-  http://persch-gh2-wp-microsite.pantheon.io/searching-for-scale/
+permalink: false
 published: true
 ---
 <a class="loopback" href="/query-performance/">J</a>

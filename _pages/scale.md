@@ -1,22 +1,8 @@
 ---
-ID: 7
 post_title: WordPress at Scale
 layout: page
-permalink: >
-  http://persch-gh2-wp-microsite.pantheon.io/
+permalink: false
 published: true
-qode_page_subtitle_color:
-  - Array
-qode_revolution-slider:
-  - 'Warning: htmlspecialchars() expects parameter 1 to be string, array given in /srv/bindings/37fb02e198e441baa11ec65580c9840c/code/wp-content/themes/bridge/framework/lib/qode.layout.php on line 512'
-qode_seo_title:
-  - How to Run WordPress Sites at Scale
-qode_seo_keywords:
-  - wordpress, scalability
-qode_seo_description:
-  - >
-    The 6 essential components for running a
-    scalable WordPress site.
 ---
 <div id="wpas">
 </div>
