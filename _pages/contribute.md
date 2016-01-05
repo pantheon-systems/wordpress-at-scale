@@ -2,6 +2,8 @@
 ID: 27
 post_title: Contribute
 layout: page
+permalink:
+  - 'a:1:{i:0;s:48:"a:1:{i:0;s:30:"a:1:{i:0;s:12:"/contribute/";}";}";}'
 published: true
 ---
 Rules for contributing will go here.

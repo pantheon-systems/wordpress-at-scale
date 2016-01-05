@@ -2,6 +2,8 @@
 ID: 13
 post_title: Page Caching
 layout: page
+permalink:
+  - 'a:1:{i:0;s:50:"a:1:{i:0;s:32:"a:1:{i:0;s:14:"/page-caching/";}";}";}'
 published: true
 ---
 <a class="loopback" href="/elastic-architecture/">J</a>
