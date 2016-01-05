@@ -1,9 +1,10 @@
 ---
 ID: 16
-post_title: Object Caching
+post_title:
+  - ' permalink _sha'
 layout: page
 permalink: >
-  http://persch-gh2-wp-microsite.pantheon.io/object-caching/
+  http://persch-gh-wp-microsite.pantheon.io/object-caching/
 published: true
 ---
 <a class="loopback" href="/page-caching/">J</a>

@@ -1,9 +1,10 @@
 ---
 ID: 18
-post_title: Query Performance
+post_title:
+  - ' permalink _sha'
 layout: page
 permalink: >
-  http://persch-gh2-wp-microsite.pantheon.io/query-performance/
+  http://persch-gh-wp-microsite.pantheon.io/query-performance/
 published: true
 ---
 <a class="loopback" href="/object-caching/">J</a>
