@@ -1,6 +1,7 @@
 ---
 ID: 200
-post_title: Resources
+post_title:
+  - ' permalink _sha'
 layout: page
 permalink: >
   http://persch-gh-wp-microsite.pantheon.io/resources/

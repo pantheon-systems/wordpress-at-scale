@@ -1,6 +1,7 @@
 ---
 ID: 382
-post_title: Searching for Scale
+post_title:
+  - ' permalink _sha'
 layout: page
 permalink: >
   http://persch-gh-wp-microsite.pantheon.io/searching-for-scaling/

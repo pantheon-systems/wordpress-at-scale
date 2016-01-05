@@ -1,6 +1,7 @@
 ---
 ID: 20
-post_title: A Real-World Scalable Architecture
+post_title:
+  - ' permalink _sha'
 layout: page
 permalink: >
   http://persch-gh-wp-microsite.pantheon.io/a-real-world-scalable-architecture/
