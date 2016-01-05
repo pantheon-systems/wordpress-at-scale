@@ -10,7 +10,7 @@ Rules for contributing will go here.
 
 ## Editing existing pages
 
-Make a PR
+@todo
 
 ## Adding pages
 
@@ -31,11 +31,14 @@ Here is an example of text that would go in `/_pages/new-file.md`.
 
 </code></div>
 
-@todo figure out why ``` does not work in the wordpress markdown conversion.
+@todo flesh out this section
 
 
 
 
 ## Adding tags
+
+@todo
+
 
 <a class="long-box" href="https://github.com/pantheon-systems/wpas">Contribute to WordPress at Scale on GitHub</a>  
