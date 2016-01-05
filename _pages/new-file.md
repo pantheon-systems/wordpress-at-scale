@@ -6,4 +6,4 @@ permalink: >
   http://persch-gh2-wp-microsite.pantheon.io/new-file/
 published: true
 ---
-New Text goes here.
+New text goes here.
