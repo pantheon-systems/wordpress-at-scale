@@ -1,6 +1,7 @@
 ---
 ID: 411
-post_title: Create a page on Github
+post_title:
+  - ' permalink _sha'
 layout: page
 permalink: >
   http://persch-gh-wp-microsite.pantheon.io/create-a-page-on-github/

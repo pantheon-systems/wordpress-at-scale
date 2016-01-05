@@ -1,6 +1,7 @@
 ---
 ID: 27
-post_title: Contribute
+post_title:
+  - ' permalink _sha'
 layout: page
 permalink: >
   http://persch-gh-wp-microsite.pantheon.io/contribute/

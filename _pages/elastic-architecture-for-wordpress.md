@@ -1,6 +1,7 @@
 ---
 ID: 11
-post_title: Elastic Architecture
+post_title:
+  - ' permalink _sha'
 layout: page
 permalink: >
   http://persch-gh-wp-microsite.pantheon.io/elastic-architecture-for-wordpress/

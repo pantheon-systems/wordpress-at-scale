@@ -1,6 +1,7 @@
 ---
 ID: 22
-post_title: Development and Workflow
+post_title:
+  - ' permalink _sha'
 layout: page
 permalink: >
   http://persch-gh-wp-microsite.pantheon.io/development-and-workflow/

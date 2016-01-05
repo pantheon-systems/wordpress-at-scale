@@ -1,6 +1,7 @@
 ---
 ID: 13
-post_title: Page Caching
+post_title:
+  - ' permalink _sha'
 layout: page
 permalink: >
   http://persch-gh-wp-microsite.pantheon.io/page-caching/

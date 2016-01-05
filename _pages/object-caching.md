@@ -1,6 +1,7 @@
 ---
 ID: 16
-post_title: Object Caching
+post_title:
+  - ' permalink _sha'
 layout: page
 permalink: >
   http://persch-gh-wp-microsite.pantheon.io/object-caching/

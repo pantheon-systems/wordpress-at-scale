@@ -1,20 +1,25 @@
 ---
 ID: 7
-post_title: WordPress at Scale
+post_title:
+  - >
+     permalink qode_page_subtitle_color
+    qode_revolution-slider qode_seo_title
+    qode_seo_keywords qode_seo_description
+    _sha
 layout: page
 permalink: >
   http://persch-gh-wp-microsite.pantheon.io/
 published: true
 qode_page_subtitle_color:
-  - 'a:1:{i:0;s:5:"Array";}'
+  - 'a:1:{i:0;s:22:"a:1:{i:0;s:5:"Array";}";}'
 qode_revolution-slider:
-  - 'a:1:{i:0;s:195:"Warning: htmlspecialchars() expects parameter 1 to be string, array given in /srv/bindings/37fb02e198e441baa11ec65580c9840c/code/wp-content/themes/bridge/framework/lib/qode.layout.php on line 512";}'
+  - 'a:1:{i:0;s:214:"a:1:{i:0;s:195:"Warning: htmlspecialchars() expects parameter 1 to be string, array given in /srv/bindings/37fb02e198e441baa11ec65580c9840c/code/wp-content/themes/bridge/framework/lib/qode.layout.php on line 512";}";}'
 qode_seo_title:
-  - 'a:1:{i:0;s:35:"How to Run WordPress Sites at Scale";}'
+  - 'a:1:{i:0;s:53:"a:1:{i:0;s:35:"How to Run WordPress Sites at Scale";}";}'
 qode_seo_keywords:
-  - 'a:1:{i:0;s:22:"wordpress, scalability";}'
+  - 'a:1:{i:0;s:40:"a:1:{i:0;s:22:"wordpress, scalability";}";}'
 qode_seo_description:
-  - 'a:1:{i:0;s:65:"The 6 essential components for running a scalable WordPress site.";}'
+  - 'a:1:{i:0;s:83:"a:1:{i:0;s:65:"The 6 essential components for running a scalable WordPress site.";}";}'
 ---
 <div id="wpas">
 </div>
