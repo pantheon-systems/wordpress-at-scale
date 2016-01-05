@@ -10,6 +10,8 @@ Rules for contributing will go here.
 
 ## Editing existing pages
 
+Make a PR
+
 ## Adding pages
 
 ## Adding tags
