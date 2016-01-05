@@ -1,7 +1,6 @@
 ---
 ID: 9
-post_title:
-  - ' permalink _sha'
+post_title: Will your WordPress website scale?
 layout: page
 permalink: >
   http://persch-gh-wp-microsite.pantheon.io/will-your-wordpress-website-scale/

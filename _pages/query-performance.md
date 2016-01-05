@@ -1,7 +1,6 @@
 ---
 ID: 18
-post_title:
-  - ' permalink _sha'
+post_title: Query Performance
 layout: page
 permalink: >
   http://persch-gh-wp-microsite.pantheon.io/query-performance/
