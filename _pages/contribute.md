@@ -6,6 +6,15 @@ permalink: >
   http://persch-gh2-wp-microsite.pantheon.io/contribute/
 published: true
 ---
-Rules for contributing will go here.
 
-<a class="long-box" href="https://github.com/pantheon-systems/wpas">Contribute to WordPress at Scale on GitHub</a>  
+## Changing existing pages
+
+Click the PR button on any page.
+
+## Creating a new page
+
+## Creating new tags?
+
+
+
+<a class="long-box" href="https://github.com/pantheon-systems/wpas">Contribute to WordPress at Scale on GitHub</a>  
