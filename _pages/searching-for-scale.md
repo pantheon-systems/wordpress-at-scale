@@ -1,17 +1,10 @@
 ---
 ID: 382
 post_title: Searching for Scale
-author: Jordan Koplowicz
-post_date: 2015-12-22 16:14:52
-post_excerpt: ""
 layout: page
 permalink: >
-  http://dev-wp-microsite.pantheon.io/searching-for-scale/
+  http://persch-gh2-wp-microsite.pantheon.io/searching-for-scale/
 published: true
-qode_animate-page-title:
-  - 'no'
-qode_show-sidebar:
-  - default
 ---
 <a class="loopback" href="/query-performance/">J</a>
 

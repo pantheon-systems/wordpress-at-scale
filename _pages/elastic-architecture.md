@@ -2,6 +2,8 @@
 ID: 11
 post_title: Elastic Architecture
 layout: page
+permalink: >
+  http://persch-gh2-wp-microsite.pantheon.io/elastic-architecture/
 published: true
 ---
 <a class="loopback" href="/">J</a>
