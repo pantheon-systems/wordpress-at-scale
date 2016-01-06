@@ -16,7 +16,7 @@ Rules for contributing will go here.
 
 Here is an example of text that would go in `/_pages/new-file.md`.
 
-<div><code>
+```
   ---
   post_title: New File
   layout: page
@@ -29,7 +29,7 @@ Here is an example of text that would go in `/_pages/new-file.md`.
 
   @todo We need a way to add images.
 
-</code></div>
+```
 
 The new page will be picked up by the WordPress site once the new file is merged to master. This sync happens through the [WordPress GitHub Sync plugin](https://wordpress.org/plugins/wp-github-sync/). The page will have a numeric ID once WordPress saves it in the datbase. Following this save, the WordPress GitHub Sync plugin will write back to this repository on GitHub to include the numeric ID and permalink as part of the YAML Frontmatter at the top of the .md file.
 
