@@ -10,7 +10,7 @@ published: true
 
 # Object Caching
 
-## Persistent Object Caching Speeds Up Dynamic Pageviews
+## Persistent Object Caching Speeds Up Dynamic Pageviews - test
 
 As a content management system, WordPress is naturally heavily dependent on its database, and database efficiency is crucial to scaling WordPress. If requests to your website generate a large number of database queries, your database server’s resources can become overwhelmed. With your database server overloaded, your site performance and uptime will suffer across the board.
 
