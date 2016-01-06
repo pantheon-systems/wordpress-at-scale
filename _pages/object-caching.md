@@ -2,15 +2,13 @@
 ID: 16
 post_title: Object Caching
 layout: page
-permalink: >
-  http://persch-gh2-wp-microsite.pantheon.io/object-caching/
 published: true
 ---
 <a class="loopback" href="/page-caching/">J</a>
 
 # Object Caching
 
-## Persistent Object Caching Speeds Up Dynamic Pageviews - test
+## Persistent Object Caching Speeds Up Dynamic Pageviews
 
 As a content management system, WordPress is naturally heavily dependent on its database, and database efficiency is crucial to scaling WordPress. If requests to your website generate a large number of database queries, your database server’s resources can become overwhelmed. With your database server overloaded, your site performance and uptime will suffer across the board.
 
