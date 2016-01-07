@@ -26,7 +26,7 @@ While it’s possible to persist objects within a single PHP instance (e.g. APC)
 
 Further, for all that object caching gives WordPress automatically, it is of even more value for developers when optimizing a particular use-case. The challenges of serving varying data to many concurrent logged-in users, or high volumes of dynamic traffic, are the hard problems are that engineers love, and there is no “one size fits all” solution.
 
-WordPress stores its object cache in as simple named key=>value pairs, so there many backends can serve as a persistent object cache. The most common open source tools for persistent object caching are Memcached and Redis. In addition there are cloud services (e.g. AWS’s ElastiCache, Azure’s Managed Cache) that provide equivalent functionality.
+WordPress stores its object cache in as simple named key=&gt;value pairs, so there many backends can serve as a persistent object cache. The most common open source tools for persistent object caching are Memcached and Redis. In addition there are cloud services (e.g. AWS’s ElastiCache, Azure’s Managed Cache) that provide equivalent functionality.
 
 Challenges that come with implementing Object Caching:
 

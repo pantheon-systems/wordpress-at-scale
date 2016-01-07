@@ -2,8 +2,6 @@
 ID: 13
 post_title: Page Caching
 layout: page
-permalink: >
-  http://persch-gh2-wp-microsite.pantheon.io/page-caching/
 published: true
 ---
 <a class="loopback" href="/elastic-architecture/">J</a>
