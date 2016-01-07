@@ -6,7 +6,7 @@ published: true
 ---
 <a class="loopback" href="/">J</a>
 
-# ELASTIC ARCHITECTURE - test
+# ELASTIC ARCHITECTURE
 
 ## Horizontal Scalability is the Scalability That Matters
 
