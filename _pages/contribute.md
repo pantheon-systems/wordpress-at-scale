@@ -1,3 +1,10 @@
+---
+ID: 27
+post_title: Contribute
+layout: page
+published: true
+---
+
 # Contributing to this repository.
 
 ## Editing existing pages
