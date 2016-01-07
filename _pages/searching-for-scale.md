@@ -2,13 +2,11 @@
 ID: 382
 post_title: Searching for Scale
 layout: page
-permalink: >
-  http://persch-gh2-wp-microsite.pantheon.io/searching-for-scale/
 published: true
 ---
 <a class="loopback" href="/query-performance/">J</a>
 
-# Searching for Scale - test
+# Searching for Scale
 
 ## Improve User Experience and Database Performance With a Search Index
 
@@ -28,18 +26,15 @@ Most large-scale sites want a better answer for core content search, and the abi
 
 **Challenges**
 
-*   **Overriding WP_Query():** most implementations of a search index backed involve overriding the built-in WP_Query() object. While this is relatively straightforward to do for vanilla out-of-the-box WordPress post search, doing it for more specific queries will require care and attention from a developer.
-*   **Index Rebuilds:** while not common, you may come across a situation that requires you to rebuild your content index. This means being able to “fall back” to the database, at least temporarily.
-*   **Complexity:** as with other dedicated subsystems, a search index is yet another piece of infrastructure to set up, monitor, and manage. While the payoffs are clearly worth it, this does become another ongoing responsibility to maintain. 
+* **Overriding WP_Query():** most implementations of a search index backed involve overriding the built-in WP_Query() object. While this is relatively straightforward to do for vanilla out-of-the-box WordPress post search, doing it for more specific queries will require care and attention from a developer.
+* **Index Rebuilds:** while not common, you may come across a situation that requires you to rebuild your content index. This means being able to “fall back” to the database, at least temporarily.
+* **Complexity:** as with other dedicated subsystems, a search index is yet another piece of infrastructure to set up, monitor, and manage. While the payoffs are clearly worth it, this does become another ongoing responsibility to maintain.
 
 [do_widget_area]
 
 [link-library settings="1" categorylistoverride="12"]
 
 <a class="loopnext" href="/a-real-world-scalable-architecture/"><i class="fa fa-angle-down"></i></a>
-
 <div class="pageloop" id="id22">
-  <div>
-    A Real-World Scalable Architecture
-  </div>
+<div>A Real-World Scalable Architecture</div>
 </div>
