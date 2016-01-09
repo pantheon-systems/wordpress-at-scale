@@ -4,9 +4,10 @@ post_title: Elastic Architecture
 layout: page
 published: true
 ---
-# ELASTIC ARCHITECTURE #
 
-## Horizontal Scalability is the Scalability That Matters ##
+## Elastic Architecture
+
+### Horizontal Scalability is the Scalability That Matters
 
 The key to running a WordPress site that can handle a large amount of traffic consistently, without risking downtime, is an elastic architecture. Simply put, this means the ability to run the website on many machines at once. Your website *must* transcend a single server in order to scale.
 
@@ -14,11 +15,11 @@ With an elastic architecture, when traffic increases, you can provision more mac
 
 This is also the only way to ensure that your site is **Highly Available** — not at the mercy of a single server’s uptime. This capability is also often called “horizontal scalability”, from the way architecture diagrams have been drawn since the 1990s. Let’s take a look. The most simple representation of an elastic architecture is drawn as a four-square cluster, like so:
 
-<img src="https://raw.githubusercontent.com/joshkoenig/wordpress-at-scale/master/diagrams/simple_cluster.png" width="1100" title="Simple Cluster Concept" />
+<img src="https://raw.githubusercontent.com/pantheon-systems/wordpress-at-scale/master/diagrams/simple_cluster.png" width="1100" title="Simple Cluster Concept" />
 
 This cluster model lets you add additional (n) PHP Application servers (sometimes called “Web Heads”) as well as additional replica databases to increase your website’s capacity to serve pages. That’s fundamental to elasticity. As a drawing, the architecture appears to scale out “horizontally”:
 
-<img src="https://raw.githubusercontent.com/joshkoenig/wordpress-at-scale/master/diagrams/horizontal_scale.png" width="1100" title="Horizontal Scalability" />
+<img src="https://raw.githubusercontent.com/pantheon-systems/wordpress-at-scale/master/diagrams/horizontal_scale.png" width="1100" title="Horizontal Scalability" />
 
 In addition to allowing you to add capacity horizontally, with this style of architecture any of the PHP App servers can go down, and others can take the load. Likewise, if a database fails, a replica can be promoted to the new master. That’s how you get away from any individual machine being a single point of failure. This is **High Availability.**
 
