@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/pantheon-systems/wordpress-at-scale/logo/logo.png" alt="WordPress at Scale" width="128" />
+<img src="https://raw.githubusercontent.com/pantheon-systems/wordpress-at-scale/master/logo.png" alt="WordPress at Scale" width="128" />
 
 # WordPress at Scale
 
