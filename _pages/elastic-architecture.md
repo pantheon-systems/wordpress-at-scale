@@ -4,9 +4,9 @@ post_title: Elastic Architecture
 layout: page
 published: true
 ---
-# ELASTIC ARCHITECTURE
+# ELASTIC ARCHITECTURE #
 
-## Horizontal Scalability is the Scalability That Matters
+## Horizontal Scalability is the Scalability That Matters ##
 
 The key to running a WordPress site that can handle a large amount of traffic consistently, without risking downtime, is an elastic architecture. Simply put, this means the ability to run the website on many machines at once. Your website *must* transcend a single server in order to scale.
 
