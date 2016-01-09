@@ -15,7 +15,7 @@ This is a known weak spot for WordPress, and the good news is there are emerging
 
 Scaling search queries via an index gets those queries out of the database, allowing them to be handled by a dedicated high-performance subsystem.
 
-(diagram here)
+<img src="https://raw.githubusercontent.com/joshkoenig/wordpress-at-scale/master/diagrams/search_index.png" width="1100" title="Using a Search Index" />
 
 One of the most exciting techniques for scaling large sites with complex content is using the search index to handle a wider range of queries that would normally go to the database, taking this tool beyond the basic content search. With a proper search index backend, developers can implement various resource-intensive queries — autocompletes, recent post lists, category trees — to use the most efficient resource, speeding things up for users and avoiding “queries of death.”
 
@@ -28,6 +28,10 @@ Most large-scale sites want a better answer for core content search, and the abi
 * **Overriding WP_Query():** most implementations of a search index backed involve overriding the built-in WP_Query() object. While this is relatively straightforward to do for vanilla out-of-the-box WordPress post search, doing it for more specific queries will require care and attention from a developer.
 * **Index Rebuilds:** while not common, you may come across a situation that requires you to rebuild your content index. This means being able to “fall back” to the database, at least temporarily.
 * **Complexity:** as with other dedicated subsystems, a search index is yet another piece of infrastructure to set up, monitor, and manage. While the payoffs are clearly worth it, this does become another ongoing responsibility to maintain.
+
+<!---
+Do not edit below this line. Automatically pulls in resources.
+-->
 
 [do_widget_area]
 
