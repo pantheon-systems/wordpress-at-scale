@@ -4,7 +4,8 @@ post_title: Resources
 layout: page
 published: true
 ---
-# Resources  
+
+## Resources  
 
 ### Wordpress at Scale
 

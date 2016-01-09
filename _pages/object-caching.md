@@ -5,9 +5,9 @@ layout: page
 published: true
 ---
 
-# Object Caching
+## Object Caching
 
-## Persistent Object Caching Speeds Up Dynamic Pageviews
+### Persistent Object Caching Speeds Up Dynamic Pageviews
 
 As a content management system, WordPress is naturally heavily dependent on its database, and database efficiency is crucial to scaling WordPress. If requests to your website generate a large number of database queries, your database server’s resources can become overwhelmed. With your database server overloaded, your site performance and uptime will suffer across the board.
 
@@ -15,7 +15,7 @@ In 2005, WordPress introduced its internal object cache — a way of automatical
 
 Luckily, WordPress easily integrates with persistent storage backends like Redis or Memcached, making it possible to persist the object cache between requests. This speeds up PHP execution time while lessening the load on the Database, a real win-win scenario.
 
-(diagram goes here)
+<img src="https://raw.githubusercontent.com/pantheon-systems/wordpress-at-scale/master/diagrams/object_cache.png" width="1100" title="Persistent Object Cache" />
 
 Much like reverse proxy caching for pages, object caching is an established pattern in software development. It is an element to every large-scale application architecture, from Facebook or Google Docs to WordPress.com. Your WordPress site should be no exception.
 
@@ -27,7 +27,7 @@ Further, for all that object caching gives WordPress automatically, it is of eve
 
 WordPress stores its object cache in as simple named key=&gt;value pairs, so there many backends can serve as a persistent object cache. The most common open source tools for persistent object caching are Memcached and Redis. In addition there are cloud services (e.g. AWS’s ElastiCache, Azure’s Managed Cache) that provide equivalent functionality.
 
-Challenges that come with implementing Object Caching:
+### Challenges:
 
 *   **Complexity:** this is yet another layer in the stack, and it can create challenges to run operationally. In addition, you will need to make sure you have the same Object Caching solution present for development environments, and as part of your acceptance testing / QA process.
 *   **Invalidation:** If your site is actively used, WordPress data can be updated frequently. However, you don’t necessarily want this activity to invalidate the object cache with the same frequency. You may need to intelligently purge specific keys within the object cache. 

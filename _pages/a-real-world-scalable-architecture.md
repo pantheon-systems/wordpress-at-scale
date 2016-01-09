@@ -5,9 +5,9 @@ layout: page
 published: true
 ---
 
-# A Real-World Scalable Architecture
+## A Real-World Scalable Architecture
 
-## Don't Panic
+### Don't Panic
 
 Putting all these components together, it’s clear that the “stack” has become a lot more complex since WordPress got started. Rather than the classic Linux Apache MySQL PHP (LAMP) configuration, you now have:
 
@@ -19,11 +19,11 @@ Putting all these components together, it’s clear that the “stack” has bec
 *   ElasticSearch or Apache Solr
 *   MySQL
 
-It doesn’t lend itself to a nice acronym, and a diagram can start to feel overwhelming:
+It doesn’t lend itself to a nice acronym, and a full diagram can start to feel overwhelming:
 
-(diagram)
+<img src="https://raw.githubusercontent.com/joshkoenig/wordpress-at-scale/master/diagrams/real_world.png" width="1100" title="Putting it all together" />
 
-But don’t panic! This is why the discipline of DevOps exists. There are many professionals who are experienced with setting up this style of implementation, and many of the component pieces are now available as cloud services.
+**Don’t panic!** This is why the discipline of DevOps exists. There are many professionals who are experienced with setting up this style of implementation, and many of the component pieces are now available as cloud services.
 
 Also, you don’t have to run it yourself. This style of architecture is also available from many managed hosting and platform providers. If you are looking to outsource your website infrastructure — and increasingly common choice — you should now be armed with sufficient knowledge to evaluate various providers:
 

@@ -5,46 +5,32 @@ layout: page
 published: true
 ---
 <div id="wpas"></div>
-# Can WordPress Scale?
 
-## Yes.  It's a proven fact.
+## Can WordPress Scale?
 
-With the right infrastructure and development practices in place, WordPress can push hundreds of millions, even billions of pageviews a month. It can serve tens of thousands of logged-in users. And it can be lightning-fast the whole time. The question is not whether WordPress itself can scale, but whether or not your implementation is ready.
+### Yes. But there are requirements:
 
-These documents are intended to communicate true best practices from teams that have deep real-world experience in running WordPress at scale. The intention is to provide a useful starting place for scalable implementations, for both development teams as well as business owners.
+* **Horizontally-scalable architecture**
+* **Reverse-proxy page caching**
+* **Persistent object cache**
+* **Database replication**
+* **Optimized search index**
+* **Development and deployment workflows**
+
+WordPress can push hundreds of millions, even billions of pageviews a month; it can serve tens of thousands of concurrent logged-in users; and it can be lightning-fast the whole time. It's proven. The question is not whether WordPress itself can scale, but whether or not your implementation is ready.
+
+This site is intended to communicate hard-won best practices from teams that have deep real-world experience in running WordPress at scale. They provide a useful starting place for scalable implementations, for both development teams as well as site owners.
+
 <div class="bulletbox bb-left">
 <h2>Developers</h2>
-This site explains the proper architectural patterns for building scalable website infrastructure, as well as outlining optimizations that nearly all large-scale implementations leverage.
-<ul>
-	<li>Implementation guidelines</li>
-	<li>Open source options</li>
-	<li>Common pitfalls</li>
-	<li>Resources to learn more</li>
-</ul>
+We all stand on the shoulders of giants. Learn trusted architectural patterns for scalable website infrastructure, as well as the optimizations that nearly all big sites leverage. 
 </div>
 <div class="bulletbox bb-right">
 <h2>Site Owners</h2>
-Investing in scalability is one of the most important business decisions for your website. These documents will help you understand the choices, as well as guiding discussions with your developers and vendors.
-<ul>
-	<li>Business value of scalable architecture</li>
-	<li>Terminology to use with your team/vendors</li>
-	<li>Setting reasonable expectations</li>
-	<li>Managing risks</li>
-</ul>
+When and how you invest in scalability is one of the most important business decisions you'll make. Use this site to have productive discussions with your developers and vendors.
 </div>
-### Prepare for Liftoff
 
-In order for your WordPress website to scale and meet the demands of your growing business, it needs to:
-
-* Be horizontally scalable by hosting on an elastic architecture
-* Use full page caching independent of WordPress itself
-* Employ a high performance persistent object cache
-* Follow best practices for querying data
-* Set up with solid development, testing, and deployment workflows
-
-Confident your WordPress implementation has all these things? Congrats!
-
-Want to learn more about these techniques? Read on.
+Confident your WordPress implementation has everything it needs? Congrats! Want to learn more about these techniques? Read on.
 
 [do_widget_area]
 
