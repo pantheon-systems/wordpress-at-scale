@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/pantheon-systems/wordpress-at-scale/logo/logo.png" alt="WordPress at Scale" width="128" />
+
 # WordPress at Scale
 
 Gathering best practices from the community to help developers and site owners find success in scaling WordPress.
