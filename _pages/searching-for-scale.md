@@ -17,7 +17,7 @@ Scaling search queries via an index gets those queries out of the database, allo
 
 <img src="https://raw.githubusercontent.com/pantheon-systems/wordpress-at-scale/master/diagrams/search_index.png" width="1100" title="Using a Search Index" />
 
-One of the most exciting techniques for scaling large sites with complex content is using the search index to handle a wider range of queries that would normally go to the database, taking this tool beyond the basic content search. With a proper search index backend, developers can implement various resource-intensive queries — autocompletes, recent post lists, category trees — to use the most efficient resource, speeding things up for users and avoiding “queries of death.”
+One of the most exciting techniques for scaling large sites with complex content is using the search index to handle a wider range of queries that would normally go to the database, taking this tool beyond the basic content search. With a proper search index backend, developers can implement various resource-intensive queries — autocompletes, queries by postmeta, multi-taxonomy queries — to use the most efficient resource, speeding things up for users and avoiding “queries of death.”
 
 Of course, you can always develop around many of the challenges of big datasets by optimizing your code to use object caching to reduce the volume of slow queries, and/or re-factor the queries themselves to be more efficient. However, the ability to “throw the queries at the index” is an excellent option to have at your disposal.
 
