@@ -13,13 +13,13 @@ One of the big challenges with WordPress at Scale is the developer experience. T
 
 Agile development workflows are a whole discipline, and this page is by no means comprehensive. However, everybody knows the era of Cowboy Coding is coming to a close, and there are two industry standard best-practices that are increasingly common with professional WordPress teams.
 
-Anyone interested in developing for Scale should strongly consider adopting both **Pull Requests,** and **Continuous Integration.** To achieve these, you need to have every change to the website codebase tracked in version control, preferably Git, widely considered the industry standard. You’ll also need workflow documentation, and ideally some automation, to follow the processes correctly.
+Anyone interested in developing for Scale should strongly consider adopting both **Pull Requests** and **Continuous Integration.** To achieve these, you need to have every change to the website codebase tracked in version control, preferably Git, widely considered the industry standard. You’ll also need workflow documentation, and ideally some automation, to follow the processes correctly.
 
 **Pull Requests** were popularized by GitHub — but are also an important part of Git Flow — and they mean having developers collaborate on a branch in version control, allowing them to work without stepping on other people’s toes. When code in a branch is deemed ready to go, a pull request is created, which allows for a line-by-line review.
 
 (diagram goes here)
 
-In a perfect world, developers can also stand up a running website for the branch under development. This allows normal acceptance testing or QA on a running copy of what’s proposed in the pull request, creating a much more transparent process which is friendly for project managers and site owners.
+In a perfect world, developers can also stand up a running website for the branch under development. This allows normal acceptance testing or QA on a running copy of what’s proposed in the pull request, creating a much more transparent process which is friendly for project managers and site owners. The pull request can also be integrated with a continuous integration service, such as Travis CI, to run automated tests on the codebase to ensure its quality before it is allowed to be merged and deployed.
 
 **Continuous Integration** minimizes the amount of divergence between branches and production, as well as a structured flow for final QA before a deploy to production. This means having feature branch teams pull from the main version control branch (usually “master”) as soon as possible, as well as being able to frequently clone content back from the Live environment to their development or testing spaces.
 

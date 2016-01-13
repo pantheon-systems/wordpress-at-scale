@@ -9,7 +9,7 @@ published: true
 
 ### Improve User Experience and Database Performance With a Search Index
 
-One of the first queries to hit the wall in terms of scalability is content search. It runs slowly if you have a large number of posts, and cannot produce results based on relevance. It also does not have any built in faceting or “drill down” capabilities, leaving many users wanting more from a features standpoint as well as speed.
+One of the first queries to hit the wall in terms of scalability is WordPress's built-in content search. It runs slowly if you have a large number of posts, and cannot produce results based on relevance. It also does not have any built in faceting or “drill down” capabilities, leaving many users wanting more from a features standpoint as well as speed.
 
 This is a known weak spot for WordPress, and the good news is there are emerging best practices on scaling site content: using a dedicated search index. An index improves performance significantly, and allows a richer user experience. It can even help scale problematic queries not related to content searching.
 
@@ -17,7 +17,7 @@ Scaling search queries via an index gets those queries out of the database, allo
 
 <img src="https://raw.githubusercontent.com/pantheon-systems/wordpress-at-scale/master/diagrams/search_index.png" width="1100" title="Using a Search Index" />
 
-One of the most exciting techniques for scaling large sites with complex content is using the search index to handle a wider range of queries that would normally go to the database, taking this tool beyond the basic content search. With a proper search index backend, developers can implement various resource-intensive queries — autocompletes, recent post lists, category trees — to use the most efficient resource, speeding things up for users and avoiding “queries of death.”
+One of the most exciting techniques for scaling large sites with complex content is using the search index to handle a wider range of queries that would normally go to the database, taking this tool beyond the basic content search. With a proper search index backend, developers can implement various resource-intensive queries — autocompletes, queries by postmeta, multi-taxonomy queries — to use the most efficient resource, speeding things up for users and avoiding “queries of death.”
 
 Of course, you can always develop around many of the challenges of big datasets by optimizing your code to use object caching to reduce the volume of slow queries, and/or re-factor the queries themselves to be more efficient. However, the ability to “throw the queries at the index” is an excellent option to have at your disposal.
 
