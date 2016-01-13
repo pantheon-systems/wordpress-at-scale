@@ -19,7 +19,7 @@ Anyone interested in developing for Scale should strongly consider adopting both
 
 (diagram goes here)
 
-In a perfect world, developers can also stand up a running website for the branch under development. This allows normal acceptance testing or QA on a running copy of what’s proposed in the pull request, creating a much more transparent process which is friendly for project managers and site owners.
+In a perfect world, developers can also stand up a running website for the branch under development. This allows normal acceptance testing or QA on a running copy of what’s proposed in the pull request, creating a much more transparent process which is friendly for project managers and site owners. The pull request can also be integrated with a continuous integration service, such as Travis CI, to run automated tests on the codebase to ensure its quality before it is allowed to be merged and deployed.
 
 **Continuous Integration** minimizes the amount of divergence between branches and production, as well as a structured flow for final QA before a deploy to production. This means having feature branch teams pull from the main version control branch (usually “master”) as soon as possible, as well as being able to frequently clone content back from the Live environment to their development or testing spaces.
 
