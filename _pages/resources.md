@@ -7,7 +7,7 @@ published: true
 
 ## Resources  
 
-### Wordpress at Scale
+### WordPress at Scale
 
 *   *   *[link-library settings="1" categorylistoverride="9"] 
 
