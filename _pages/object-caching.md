@@ -13,7 +13,7 @@ As a content management system, WordPress is naturally heavily dependent on its 
 
 In 2005, WordPress introduced its internal object cache — a way of automatically storing any data from the database (not just objects) in PHP memory to prevent unnecessary queries. However, out of the box, WordPress will discard all of those objects at the end of the request, requiring them to be rebuilt from scratch for the next pageload. Not very efficient.
 
-Luckily, WordPress easily integrates with persistent storage backends like Redis or Memcached, making it possible to persist the object cache between requests. This speeds up PHP execution time while lessening the load on the Database, a real win-win scenario.
+Luckily, WordPress easily integrates with persistent/external storage backends like Redis or Memcached via object cache drop-in plugins, making it possible to persist the object cache between requests. This speeds up PHP execution time while lessening the load on the Database, a real win-win scenario.
 
 <img src="https://raw.githubusercontent.com/pantheon-systems/wordpress-at-scale/master/diagrams/object_cache.png" width="1100" title="Persistent Object Cache" />
 
