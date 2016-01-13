@@ -17,7 +17,7 @@ The contents of this website are a result of many individual efforts.
 
 Daniel Bachhuber is a hardcore about open source. He’s the Principal at [Hand Built](https://handbuilt.co/), maintains WP-CLI, is a contributing developer to the WP-API project, and believes wholeheartedly in the pull request workflow.
 
-Daniel lives in the suburbs of Portland, Oregon with his wife Leah and daughter Ava. On Fridays at lunch, he likes to take a break and play soccer in the park. If you fancy an invite to his home, he’ll likely make grilled pizza for dinner.
+Daniel lives in the suburbs of Portland, Oregon with his wife Leah, daughter Ava, and son Charlie. On Fridays at lunch, he likes to take a break and play soccer in the park. If you fancy an invite to his home, he’ll likely make grilled pizza for dinner.
 
 ### Matthew Boynes
 
