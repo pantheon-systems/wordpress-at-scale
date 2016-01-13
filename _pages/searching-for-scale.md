@@ -9,7 +9,7 @@ published: true
 
 ### Improve User Experience and Database Performance With a Search Index
 
-One of the first queries to hit the wall in terms of scalability is content search. It runs slowly if you have a large number of posts, and cannot produce results based on relevance. It also does not have any built in faceting or “drill down” capabilities, leaving many users wanting more from a features standpoint as well as speed.
+One of the first queries to hit the wall in terms of scalability is WordPress's built-in content search. It runs slowly if you have a large number of posts, and cannot produce results based on relevance. It also does not have any built in faceting or “drill down” capabilities, leaving many users wanting more from a features standpoint as well as speed.
 
 This is a known weak spot for WordPress, and the good news is there are emerging best practices on scaling site content: using a dedicated search index. An index improves performance significantly, and allows a richer user experience. It can even help scale problematic queries not related to content searching.
 
