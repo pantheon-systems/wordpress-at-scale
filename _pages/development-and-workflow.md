@@ -13,7 +13,7 @@ One of the big challenges with WordPress at Scale is the developer experience. T
 
 Agile development workflows are a whole discipline, and this page is by no means comprehensive. However, everybody knows the era of Cowboy Coding is coming to a close, and there are two industry standard best-practices that are increasingly common with professional WordPress teams.
 
-Anyone interested in developing for Scale should strongly consider adopting both **Pull Requests,** and **Continuous Integration.** To achieve these, you need to have every change to the website codebase tracked in version control, preferably Git, widely considered the industry standard. You’ll also need workflow documentation, and ideally some automation, to follow the processes correctly.
+Anyone interested in developing for Scale should strongly consider adopting both **Pull Requests** and **Continuous Integration.** To achieve these, you need to have every change to the website codebase tracked in version control, preferably Git, widely considered the industry standard. You’ll also need workflow documentation, and ideally some automation, to follow the processes correctly.
 
 **Pull Requests** were popularized by GitHub — but are also an important part of Git Flow — and they mean having developers collaborate on a branch in version control, allowing them to work without stepping on other people’s toes. When code in a branch is deemed ready to go, a pull request is created, which allows for a line-by-line review.
 
