@@ -25,7 +25,9 @@ TBD?
 
 ### Weston Ruter
 
-TBD?
+<img src="https://www.gravatar.com/avatar/bb16e7904f2f335b6c9f524cc533d2d2?s=128" />
+
+Weston Ruter is CTO at [XWP](https://xwp.co/) and has been developing with Web technologies since the late 90's. He has a degree in Computer Science and has long worked to push the envelope of what can be done on the Web. For most of its life, he has been developing with WordPress, and he is an active contributor and committer to WordPress core, focusing on the Customizer.
 
 ### Josh Koenig
 
