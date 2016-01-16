@@ -31,7 +31,7 @@ To put this in more concrete terms, consider a request from a visitor to your we
 
 This model helps solve the challenge of scaling WordPress because a reverse-proxy can be literally three orders of magnitude (1000x) more efficient than a PHP web server at delivering cached responses. PHP web servers need to perform a large number of relatively complex operations — connect to a database, execute thousands of lines of code, process business logic, etc. All a reverse proxy needs to do is serve a static value from cache.
 
-The most popular open source reverse proxy is Varnish, but Nginx also has reverse proxy functionality and there are also hardware and commercial options available. In addition, some CDNs can act as massive distributed reverse proxies. Akamai has long been the market leader, but now faces competition from up and coming options like CloudFlare and Fastly.
+The most popular open source reverse proxy is Varnish, but Nginx also has reverse proxy functionality and there are also hardware and commercial options available. In addition, some CDNs can act as massive distributed reverse proxies. Akamai, CloudFlare and Fastly are all excellent products for globally distributed reverse proxy solutions.
 
 ### Challenges:
 
