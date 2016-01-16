@@ -25,7 +25,7 @@ In a perfect world, developers can also stand up a running website for the branc
 
 #### Continuous Integration
 
-Continuous Integration is the practice of merging development branches to a project's master branch as frequently as possible to minimize divergence between development environments and the live environments. Additionally, Continuous Integration encourages a structured flow for QA and acceptance testing before a deploy to production. This means having feature branch teams pull from the main version control branch (usually “master”) as soon as possible, as well as being able to frequently clone content back from the Live environment to their development or testing spaces.
+Continuous Integration is the practice of merging development branches to a project's master branch as frequently as possible to minimize divergence between development environments and the live environments. Additionally, Continuous Integration encourages a structured flow for QA and acceptance testing before a deploy to production. This means having feature branch teams pull from the main version control branch (usually “master”) as soon as possible, as well as being able to frequently pull content back from the Live environment to their development or testing spaces.
 
 <img src="https://raw.githubusercontent.com/pantheon-systems/wordpress-at-scale/master/diagrams/continuous_integration.png" width="1100" title="Continuous Integration" />
 
