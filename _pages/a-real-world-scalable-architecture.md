@@ -18,7 +18,7 @@ Putting all these components together, it’s clear that the “stack” has bec
 *   PHP
 *   Memcached or Redis
 *   ElasticSearch or Apache Solr
-*   MySQL
+*   MySQL and Database Replication
 
 It doesn’t lend itself to a nice acronym, and a full diagram can start to feel overwhelming:
 
