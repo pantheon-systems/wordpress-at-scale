@@ -28,6 +28,6 @@ The content is broken up into several pages to make it more easy to consume and 
 
 ## Contributing
 
-Pull requests are welcome! The data collected here is the result of many years of work by many people, but there's always more to learn. Make a contribution, and we would be happy to list you on the Contributors page!
+Pull requests are welcome! The data collected here is the result of many years of work by many people and there's always more to learn. Make a contribution, and we would be happy to list you on the Contributors page!
 
 To suggest a change or addition to the main content, please fork the repo and make a pull request against the proper file within the `_pages` directory. If you have a more general question, issue, or suggestion, you may use GitHub's issues functionality.
