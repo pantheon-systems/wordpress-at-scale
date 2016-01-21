@@ -12,12 +12,13 @@ published: true
 Putting all these components together, it’s clear that the “stack” has become a lot more complex since WordPress got started. Rather than the classic Linux Apache MySQL PHP (LAMP) configuration, you now have:
 
 *   Linux
-*   Varnish
+*   Varnish or Edge Cache Provider
+*   Content Delivery Network
 *   Apache or Nginx
 *   PHP
 *   Memcached or Redis
 *   ElasticSearch or Apache Solr
-*   MySQL
+*   MySQL and Database Replication
 
 It doesn’t lend itself to a nice acronym, and a full diagram can start to feel overwhelming:
 
