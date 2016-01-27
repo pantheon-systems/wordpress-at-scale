@@ -4,6 +4,8 @@ post_title: About
 layout: page
 published: true
 ---
-## Blog placeholder for now.
+## About WordPress at Scale
 
-These are not the droids you are looking for.
+Why build this?
+Thanks to contributors
+Site build process, key plugins, theme, etc.
