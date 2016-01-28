@@ -24,9 +24,9 @@ It doesn’t lend itself to a nice acronym, and a full diagram can start to feel
 
 <img src="https://raw.githubusercontent.com/joshkoenig/wordpress-at-scale/master/diagrams/real_world.png" width="1100" title="Putting it all together" />
 
-**Don’t panic!** This is why the discipline of DevOps exists. There are many professionals who are experienced with setting up this style of implementation, and many of the component pieces are now available as cloud services.
+**Don’t panic!** This is why the discipline of DevOps exists. There are professionals who are experienced with setting up this style of implementation, and several of the component pieces are now available as cloud services.
 
-Also, you don’t have to run it yourself. This style of architecture is also available from many managed hosting and platform providers. If you are looking to outsource your website infrastructure — and increasingly common choice — you should now be armed with sufficient knowledge to evaluate various providers:
+Also, you don’t have to run it yourself. This style of architecture can be obtained from managed hosting and platform providers. If you are looking to outsource your website infrastructure — an increasingly common choice — you should now be armed with sufficient knowledge to evaluate various providers:
 
 *   Do they provide load-balancing and reverse-proxy caching?
 *   Is their infrastructure truly elastic? What is the turnaround time for scaling horizontally?
@@ -35,7 +35,7 @@ Also, you don’t have to run it yourself. This style of architecture is also av
 *   Can they provide MySQL replication? Does it support HyperDB?
 *   What options do they offer for a Search Index?
 
-Beyond all that, there’s another key concern when it comes to running WordPress at scale, but it isn’t about the production infrastructure. It’s about how you can be agile and effective developing and debugging your site.
+Beyond that, there’s another key concern when it comes to running WordPress at scale, but it isn’t about the production infrastructure. It’s about how you can be agile and effective developing and debugging your site, and how to make sure this kind of complexity doesn't lead to a fear of deploying changes. 
 
 [do_widget_area]
 
