@@ -5,7 +5,6 @@ layout: page
 published: true
 ---
 <div id="wpas"></div>
-
 ## Can WordPress Scale?
 
 ### Yes. But there are requirements:
@@ -21,17 +20,20 @@ WordPress can push hundreds of millions, even billions of pageviews a month; it 
 
 This site is intended to communicate hard-won best practices from teams that have deep real-world experience in running WordPress at scale. They provide a useful starting place for scalable implementations, for both development teams as well as site owners.
 
-<div class="bulletbox bb-left">
-<h2>Developers</h2>
-We all stand on the shoulders of giants. Learn trusted architectural patterns for scalable website infrastructure, as well as the optimizations that nearly all big sites leverage. 
-</div>
-<div class="bulletbox bb-right">
-<h2>Site Owners</h2>
+[bullet_box align="left" title="Developers"]
+We all stand on the shoulders of giants. Learn trusted architectural patterns for scalable website infrastructure, as well as the optimizations that nearly all big sites leverage.
+[/bullet_box]
+[bullet_box align="right" title="Site Owners"]
 When and how you invest in scalability is one of the most important business decisions you'll make. Use this site to have productive discussions with your developers and vendors.
-</div>
-
+[/bullet_box]
 Confident your WordPress implementation has everything it needs? Congrats! Want to learn more about these techniques? Read on.
 
-[do_widget_area]
+<!---
+Do not edit below this line. Automatically pulls in resources.
+-->
+
+[article_links]
+
+[social_links]
 
 [link-library settings="1" categorylistoverride="9"]

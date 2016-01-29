@@ -34,6 +34,10 @@ Even with best-practice architecture, an important part of scalability hygiene i
 *   **Debuggability:** when dealing with troublesome queries, you not only need access to the slow query log, but also to safely and reliably replicate the situation order to conclusively resolve the issue. That means having an environment to debug in with all the data needed to trigger the slow query. It also means taking the time to isolate where in the site code the query is being generated, so that an alternative can be implemented.
 *   **Regressions:** as noted above, the impacts from a query of death can be swift. For sites with large datasets, it is important to consider the implications of new queries, as well as to test them before they are released into production. 
 
-[do_widget_area]
+<!---
+Do not edit below this line. Automatically pulls in resources.
+-->
+
+[social_links]
 
 [link-library settings="1" categorylistoverride="11"]
