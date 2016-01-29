@@ -39,6 +39,10 @@ The most popular open source reverse proxy is Varnish, but Nginx also has revers
 *   **Cookies:** most Proxies rely heavily on browser-side characteristics — e.g. cookies — to decide whether a request can be given a cached response, or if it must be passed back to WordPress. If the reverse proxy, or WordPress, are improperly configured, then too many requests can be sent back to WordPress, which can drastically decrease the effectiveness of the proxy cache. This can present some challenges in a world where there are many different systems using Cookies differently.
 *   **Complexity:** for many developers, the conceptual complexity of introducing a new system, and not having the web-browser talk “directly” to WordPress, can create confusion around how to debug problems. Taking the time to insure everyone on the team is comfortable with the implementation is important. 
 
-[do_widget_area]
+<!---
+Do not edit below this line. Automatically pulls in resources.
+-->
+
+[social_links]
 
 [link-library settings="1" categorylistoverride="10"]

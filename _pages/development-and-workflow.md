@@ -49,6 +49,10 @@ The way to deal with this is to have as much consistency as is reasonable. Tools
 *   **Local Development:** while the quality of virtualization tools is progressing, they are still complex and require their own upkeep; losing a day of productivity due to local dev problems is always a pain. In addition, it’s very difficult to represent a scalable multi-server environment on a developer’s laptop, so some compromises here are inevitable.
 *   **Setup Cost:** for many teams without an existing platform or scripts, setting up a best practice workflow is a costly investment of time, which may or may not be supported by the project budget. Unfortunately many projects suffer because the proper tooling isn’t put into place, resulting in stressful deployment windows.
 
-[do_widget_area]
+<!---
+Do not edit below this line. Automatically pulls in resources.
+-->
+
+[social_links]
 
 [link-library settings="1" categorylistoverride="13"]

@@ -34,6 +34,10 @@ WordPress stores its object cache in as simple named key=&gt;value pairs, so the
 *   **Eviction:** Most popular cache backends have storage limits, and use a LRU (last resource used) strategy for “evicting” items from the cache when more room is needed. This can create unexpected expirations and can sometimes confuse developers.
 *   **Optimization:** Using a persistent storage backend to cache objects for a highly dynamic application isn’t as simple as implementing a full page cache. You’ll need to smartly cache data based on an equation of how expensive it is to generate, how frequently it’s requested (aka likelihood of actually being served), and how much capacity you have in your persistent storage backend.
 
-[do_widget_area]
+<!---
+Do not edit below this line. Automatically pulls in resources.
+-->
+
+[social_links]
 
 [link-library settings="1" categorylistoverride="8"]
