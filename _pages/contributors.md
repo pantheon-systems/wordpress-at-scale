@@ -19,9 +19,11 @@ Daniel Bachhuber is a hardcore about open source. He’s the Principal at [Hand 
 
 Daniel lives in the suburbs of Portland, Oregon with his wife Leah, daughter Ava, and son Charlie. On Fridays at lunch, he likes to take a break and play soccer in the park. If you fancy an invite to his home, he’ll likely make grilled pizza for dinner.
 
-### Matthew Boynes
+### Zack Tollman
 
-TBD?
+<img src="https://www.gravatar.com/avatar/980df66b142b2a067b3f8b67b04352de?s=128" />
+
+Zack Tollman is Lead Developer at WIRED, and has contributed a great deal of code, documentation, and though leadership to the WordPress community when it comes to scale and performance via caching. His blog ([tollmanz.com](https://www.tollmanz.com/)) is a must-follow for developers interested in pushing wordpress forward. 
 
 ### Weston Ruter
 
