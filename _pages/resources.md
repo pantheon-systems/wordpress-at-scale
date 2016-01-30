@@ -5,7 +5,9 @@ layout: page
 published: true
 ---
 
-## Resources  
+## Resources
+
+In addition to the core content on this site, we maintain a library of quality external resources and implementation guides. If you have additional resource links to suggest, we welcome those contributions. See the [contributing](/contributing/) page for more information.
 
 ### Elastic Architecture
 [link-library settings="1" categorylistoverride="5"] 
