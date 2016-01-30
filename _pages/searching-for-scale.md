@@ -5,9 +5,9 @@ layout: page
 published: true
 ---
 
-## Searching for Scale
+## Scaling Content Means a Search Index
 
-### Improve User Experience and Database Performance With a Search Index
+### Improved User Experience and Database Performance
 
 One of the first queries to hit the wall in terms of scalability is WordPress's built-in content search. It runs slowly if you have a large number of posts, and cannot produce results based on relevance. It also does not have any built in faceting or “drill down” capabilities, leaving many users wanting more from a features standpoint as well as speed.
 

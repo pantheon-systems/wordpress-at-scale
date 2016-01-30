@@ -5,9 +5,9 @@ layout: page
 published: true
 ---
 
-## A Real-World Scalable Architecture
+## Don't Panic
 
-### Don't Panic
+### Scalable Architecture is More Than Just LAMP
 
 Putting all these components together, it’s clear that the “stack” has become a lot more complex since WordPress got started. Rather than the classic Linux Apache MySQL PHP (LAMP) configuration, you now have:
 

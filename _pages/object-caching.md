@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-## Object Caching
+## Scaling Logged-in Users
 
 ### Persistent Object Caching Speeds Up Dynamic Pageviews
 

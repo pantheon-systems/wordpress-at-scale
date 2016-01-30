@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-## Scalable and Agile Workflow
+## Scalable is Agile
 
 ### Measure Twice. Cut Once. Revert as Needed.
 

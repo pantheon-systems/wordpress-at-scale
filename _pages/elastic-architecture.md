@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-## Elastic Architecture
+## The True Value of the Cloud
 
 ### Horizontal Scalability is the Scalability That Matters
 

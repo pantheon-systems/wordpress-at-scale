@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-## Query Performance
+## Fast Queries Scale
 
 ### The Database is the Ultimate Bottleneck
 
