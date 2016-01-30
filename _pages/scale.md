@@ -13,9 +13,7 @@ published: true
 
 ### Yes. But there are requirements:
 
-<span>[article_links]</span>
-
-WordPress can push hundreds of millions, even billions of pageviews a month; it can serve tens of thousands of concurrent logged-in users; and it can be lightning-fast the whole time. It's proven. The question is not whether WordPress itself can scale, but whether or not your implementation is ready.
+<span></span>WordPress can push hundreds of millions, even billions of pageviews a month; it can serve tens of thousands of concurrent logged-in users; and it can be lightning-fast the whole time. It's proven. The question is not whether WordPress itself can scale, but whether or not your implementation is ready.
 
 This site is intended to communicate hard-won best practices from teams that have deep real-world experience in running WordPress at scale. They provide a useful starting place for scalable implementations, for both development teams as well as site owners.
 
