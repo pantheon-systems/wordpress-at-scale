@@ -7,9 +7,6 @@ published: true
 
 ## Resources  
 
-### WordPress at Scale
-[link-library settings="1" categorylistoverride="9"] 
-
 ### Elastic Architecture
 [link-library settings="1" categorylistoverride="5"] 
 
