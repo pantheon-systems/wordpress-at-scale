@@ -1,10 +1,16 @@
 ---
 ID: 22
 post_title: Development and Workflow
+author: admin
+post_date: 2015-12-04 10:39:18
+post_excerpt: >
+  Measure Twice. Cut Once. Revert as
+  Needed
 layout: page
+permalink: >
+  http://www.scalewp.io/development-and-workflow/
 published: true
 ---
-
 ## Scalable and Agile Workflow
 
 ### Measure Twice. Cut Once. Revert as Needed.
@@ -15,7 +21,7 @@ Agile development workflows are a whole discipline, and this page is by no means
 
 Anyone interested in developing for Scale should strongly consider adopting both **Pull Requests** and **Continuous Integration.** To achieve these, you need to have every change to the website codebase tracked in version control, preferably Git, widely considered the industry standard. You’ll also need workflow documentation, and ideally some automation, to follow the processes correctly.
 
-#### Pull Requests 
+#### Pull Requests
 
 This workflow has been widely popularized by GitHub — but it is also an important part of Git Flow in general. Basically it means having developers collaborate on a branch in version control, allowing them to work without stepping on other people’s toes. When code in a branch is deemed ready to go, a "pull request" is created, which allows for a line-by-line review.
 
@@ -45,13 +51,11 @@ The way to deal with this is to have as much consistency as is reasonable. Tools
 
 ### Challenges
 
-*   **Site Configuration:** the configuration of WordPress sites is in a tricky in-between state. Frequently you’d like to deploy config changes along with code, but most configuration is stored in the wp_options table in the database. The best answer is to utilize the WP-CFM plugin, which allows you to export configuration to JSON, and track it in version control along with code. Still, this can be a challenge.
-*   **Local Development:** while the quality of virtualization tools is progressing, they are still complex and require their own upkeep; losing a day of productivity due to local dev problems is always a pain. In addition, it’s very difficult to represent a scalable multi-server environment on a developer’s laptop, so some compromises here are inevitable.
-*   **Setup Cost:** for many teams without an existing platform or scripts, setting up a best practice workflow is a costly investment of time, which may or may not be supported by the project budget. Unfortunately many projects suffer because the proper tooling isn’t put into place, resulting in stressful deployment windows.
+* **Site Configuration:** the configuration of WordPress sites is in a tricky in-between state. Frequently you’d like to deploy config changes along with code, but most configuration is stored in the wp_options table in the database. The best answer is to utilize the WP-CFM plugin, which allows you to export configuration to JSON, and track it in version control along with code. Still, this can be a challenge.
+* **Local Development:** while the quality of virtualization tools is progressing, they are still complex and require their own upkeep; losing a day of productivity due to local dev problems is always a pain. In addition, it’s very difficult to represent a scalable multi-server environment on a developer’s laptop, so some compromises here are inevitable.
+* **Setup Cost:** for many teams without an existing platform or scripts, setting up a best practice workflow is a costly investment of time, which may or may not be supported by the project budget. Unfortunately many projects suffer because the proper tooling isn’t put into place, resulting in stressful deployment windows.
 
-<!---
-Do not edit below this line. Automatically pulls in resources.
--->
+<!--- Do not edit below this line. Automatically pulls in resources. -->
 
 [social_links]
 
