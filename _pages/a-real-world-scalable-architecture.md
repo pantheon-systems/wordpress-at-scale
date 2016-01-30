@@ -41,4 +41,4 @@ Also, you don’t have to run it yourself. This style of architecture can be obt
 
 Beyond that, there’s another key concern when it comes to running WordPress at scale, but it isn’t about the production infrastructure. It’s about how you can be agile and effective developing and debugging your site, and how to make sure this kind of complexity doesn't lead to a fear of deploying changes.
 
-&nbsp;
+[do_widget_area]
