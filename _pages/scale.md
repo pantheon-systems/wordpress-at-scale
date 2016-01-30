@@ -35,5 +35,3 @@ Do not edit below this line. Automatically pulls in resources.
 [article_links]
 
 [social_links]
-
-[link-library settings="1" categorylistoverride="9"]
