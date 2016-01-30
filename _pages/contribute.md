@@ -7,7 +7,7 @@ published: true
 
 ## Contributing to this website.
 
-[Contribute to WordPress at Scale on GitHub](https://github.com/pantheon-systems/wordpress-at-scale). We use a version control repository to collaboratively maintain these pages. They have many authors who have contributed over time, and your insight is welcome!
+[Contribute to WordPress at Scale on GitHub](https://github.com/pantheon-systems/wordpress-at-scale). We use a version control repository to collaboratively maintain these pages. They have [many authors who have contributed over time](/contributors), and your additional input and insight is welcome!
 
 ### Editing existing pages
 
@@ -19,7 +19,7 @@ The WordPress site to which this repository connects uses the [GitHub Flavored M
 
 Many of the files within this repository use WordPress shortcodes for related links and share widgets. Leave those sections as-is when making Pull Requests.
 
-### Using images
+#### Images
 
 Images are added within the git repository within the top-level `diagrams` folder rather than from the WordPress user interface. Images can be linked using GitHub's 'raw' submain using urls like https://raw.githubusercontent.com/pantheon-systems/wordpress-at-scale/master/diagrams/simple_cluster.png. For an example, see [the Elastic Architecture page](https://github.com/pantheon-systems/wordpress-at-scale/blob/master/_pages/elastic-architecture.md). 
 
@@ -53,3 +53,7 @@ When adding a new file include the following properties in the YAML Frontmatter 
 #### Naming the file
 
 The new file on GitHub must have a name that matches the title within the post. WordPress GitHub Sync names files based on title and will delete mismatched files which makes git history harder to track. [The enforcement of this matching is currently manual step in the PR process](https://github.com/pantheon-systems/wordpress-at-scale/issues/2). The name of the file should be the same as the title with all special characters removed and spaces converted to hyphens.
+
+### Resoource links
+
+Currently we are tracking the resource links only in the WordPress database. You'll notice the code for the resources page is just a [collection of shortcodes](https://github.com/pantheon-systems/wordpress-at-scale/blob/master/_pages/resources.md). However, we are very open to including more resources of value. Please [file an issue](https://github.com/pantheon-systems/wordpress-at-scale/issues) if you have a resource suggestion.
