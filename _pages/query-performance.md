@@ -1,10 +1,13 @@
 ---
 ID: 18
 post_title: Query Performance
+author: admin
+post_date: 2015-12-04 10:38:02
+post_excerpt: The Database is the Ultimate Bottleneck
 layout: page
+permalink: http://www.scalewp.io/query-performance/
 published: true
 ---
-
 ## Query Performance
 
 ### The Database is the Ultimate Bottleneck
@@ -29,14 +32,12 @@ Even with best-practice architecture, an important part of scalability hygiene i
 
 ### Challenges:
 
-*   **Query routing:** the HyperDB plugin has a lot of options for distributing queries across your database instances, but it’s usually best to keep it simple for starters. While your specific use-case may require customization, it’s best to minimize the amount of change and moving parts as you take the first step away from a monolithic single-instance implementation.
-*   **Replication lag:** while under ideal circumstances replication lag is nearly instantaneous, not all circumstances are ideal. You’ll need to be sure that your implementation can sanely handle multi-second lag, and you’ll need to monitor if lag spikes to unacceptable levels, or if replication breaks down altogether.
-*   **Debuggability:** when dealing with troublesome queries, you not only need access to the slow query log, but also to safely and reliably replicate the situation order to conclusively resolve the issue. That means having an environment to debug in with all the data needed to trigger the slow query. It also means taking the time to isolate where in the site code the query is being generated, so that an alternative can be implemented.
-*   **Regressions:** as noted above, the impacts from a query of death can be swift. For sites with large datasets, it is important to consider the implications of new queries, as well as to test them before they are released into production. 
+* **Query routing:** the HyperDB plugin has a lot of options for distributing queries across your database instances, but it’s usually best to keep it simple for starters. While your specific use-case may require customization, it’s best to minimize the amount of change and moving parts as you take the first step away from a monolithic single-instance implementation.
+* **Replication lag:** while under ideal circumstances replication lag is nearly instantaneous, not all circumstances are ideal. You’ll need to be sure that your implementation can sanely handle multi-second lag, and you’ll need to monitor if lag spikes to unacceptable levels, or if replication breaks down altogether.
+* **Debuggability:** when dealing with troublesome queries, you not only need access to the slow query log, but also to safely and reliably replicate the situation order to conclusively resolve the issue. That means having an environment to debug in with all the data needed to trigger the slow query. It also means taking the time to isolate where in the site code the query is being generated, so that an alternative can be implemented.
+* **Regressions:** as noted above, the impacts from a query of death can be swift. For sites with large datasets, it is important to consider the implications of new queries, as well as to test them before they are released into production.
 
-<!---
-Do not edit below this line. Automatically pulls in resources.
--->
+<!--- Do not edit below this line. Automatically pulls in resources. -->
 
 [social_links]
 
