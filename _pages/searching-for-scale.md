@@ -1,10 +1,16 @@
 ---
 ID: 382
 post_title: Searching for Scale
+author: Josh Koenig
+post_date: 2015-12-22 16:14:52
+post_excerpt: >
+  Improve User Experience and Database
+  Performance With a Search Index
 layout: page
+permalink: >
+  http://www.scalewp.io/searching-for-scale/
 published: true
 ---
-
 ## Searching for Scale
 
 ### Improve User Experience and Database Performance With a Search Index
@@ -29,9 +35,7 @@ Most large-scale sites want a better answer for core content search, and the abi
 * **Index Rebuilds:** while not common, you may come across a situation that requires you to rebuild your content index. This means being able to “fall back” to the database, at least temporarily.
 * **Complexity:** as with other dedicated subsystems, a search index is yet another piece of infrastructure to set up, monitor, and manage. While the payoffs are clearly worth it, this does become another ongoing responsibility to maintain.
 
-<!---
-Do not edit below this line. Automatically pulls in resources.
--->
+<!--- Do not edit below this line. Automatically pulls in resources. -->
 
 [social_links]
 
