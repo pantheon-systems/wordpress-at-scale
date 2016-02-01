@@ -2,7 +2,7 @@
 
 # WordPress at Scale
 
-Gathering best practices from the community to help developers and site owners find success in scaling WordPress.
+Gathering best practices from the community to help developers and site owners find success in scaling WordPress. The contents of this repository are synced with [scalewp.io](https://www.scalewp.io/) via [the WordPress Github Sync plugin](https://wordpress.org/plugins/wp-github-sync/).
 
 ## The Problem
 
