@@ -12,7 +12,7 @@ published: true
 ---
 ## Page Caching
 
-### The Key To Internet-Scale Traffic is Reverse-Proxy Caching
+### The Key to Internet-Scale Traffic is Reverse-Proxy Caching
 
 Everyone using WordPress knows caching needs to be a part of their performance and scalability strategy, which is why there are several cache-oriented tools in the top 10 list of WordPress plugins. However, WordPress will never scale if WordPress does all the work.
 
