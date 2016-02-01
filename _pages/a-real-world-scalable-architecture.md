@@ -1,9 +1,11 @@
 ---
 ID: 20
 post_title: A Real-World Scalable Architecture
-author: admin
+author: Josh Koenig
 post_date: 2015-12-04 10:38:45
-post_excerpt: "Don't Panic"
+post_excerpt: >
+  Scalable Architecture is More Than Just
+  LAMP
 layout: page
 permalink: >
   http://www.scalewp.io/a-real-world-scalable-architecture/
