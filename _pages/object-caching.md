@@ -1,11 +1,16 @@
 ---
 ID: 16
 post_title: Object Caching
+author: admin
+post_date: 2015-12-04 10:37:15
+post_excerpt: >
+  Persistent Object Caching Speeds Up
+  Dynamic Pageviews
 layout: page
+permalink: http://www.scalewp.io/object-caching/
 published: true
 ---
-
-## Scaling Logged-in Users
+## Object Caching
 
 ### Persistent Object Caching Speeds Up Dynamic Pageviews
 
@@ -29,14 +34,12 @@ WordPress stores its object cache in as simple named key=&gt;value pairs, so the
 
 ### Challenges:
 
-*   **Complexity:** this is yet another layer in the stack, and it can create challenges to run operationally. In addition, you will need to make sure you have the same Object Caching solution present for development environments, and as part of your acceptance testing / QA process.
-*   **Invalidation:** If your site is actively used, WordPress data can be updated frequently. However, you don’t necessarily want this activity to invalidate the object cache with the same frequency. You may need to intelligently purge specific keys within the object cache. 
-*   **Eviction:** Most popular cache backends have storage limits, and use a LRU (last resource used) strategy for “evicting” items from the cache when more room is needed. This can create unexpected expirations and can sometimes confuse developers.
-*   **Optimization:** Using a persistent storage backend to cache objects for a highly dynamic application isn’t as simple as implementing a full page cache. You’ll need to smartly cache data based on an equation of how expensive it is to generate, how frequently it’s requested (aka likelihood of actually being served), and how much capacity you have in your persistent storage backend.
+* **Complexity:** this is yet another layer in the stack, and it can create challenges to run operationally. In addition, you will need to make sure you have the same Object Caching solution present for development environments, and as part of your acceptance testing / QA process.
+* **Invalidation:** If your site is actively used, WordPress data can be updated frequently. However, you don’t necessarily want this activity to invalidate the object cache with the same frequency. You may need to intelligently purge specific keys within the object cache.
+* **Eviction:** Most popular cache backends have storage limits, and use a LRU (last resource used) strategy for “evicting” items from the cache when more room is needed. This can create unexpected expirations and can sometimes confuse developers.
+* **Optimization:** Using a persistent storage backend to cache objects for a highly dynamic application isn’t as simple as implementing a full page cache. You’ll need to smartly cache data based on an equation of how expensive it is to generate, how frequently it’s requested (aka likelihood of actually being served), and how much capacity you have in your persistent storage backend.
 
-<!---
-Do not edit below this line. Automatically pulls in resources.
--->
+<!--- Do not edit below this line. Automatically pulls in resources. -->
 
 [social_links]
 

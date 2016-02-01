@@ -1,11 +1,17 @@
 ---
 ID: 11
 post_title: Elastic Architecture
+author: Josh Koenig
+post_date: 2015-12-04 09:59:36
+post_excerpt: >
+  Horizontal Scalability Is the
+  Scalability That Matters
 layout: page
+permalink: >
+  http://www.scalewp.io/elastic-architecture/
 published: true
 ---
-
-## The True Value of the Cloud
+## Elastic Architecture
 
 ### Horizontal Scalability is the Scalability That Matters
 
@@ -35,9 +41,7 @@ The common challenges running an elastic, horizontally scalable, and highly avai
 * **Shared Media:** One of WordPress’s most important functions is managing media — images, documents, etc — that go along with posts. These are placed in the `uploads` area of `wp-content`, but in order to make WordPress horizontally scalable, you must find a way for uploads to be available to all PHP App servers. Open-source tools like GlusterFS, NFS, and Ceph are common answers, and Amazon’s EFS is an option in that cloud ecosystem.
 * **Consistency:** A classic downfall for clusters is a lack of consistency. If not all the environments at each layer have the same characteristics and configuration, that will compromise elasticity and create maddeningly illusive bugs. Likewise, changes to the application itself — e.g. a WordPress core update — must be deployed consistently, which requires some kind of orchestration and workflow. These are challenges solved by systems administrators and DevOps practitioners, using tools such as Chef, Puppet, Ansible, and Capistrano. There are also cloud tools, such as AWS’s CloudFormation, or OpenStack’s HEAT that can help.
 
-<!---
-Do not edit below this line. Automatically pulls in resources.
--->
+<!--- Do not edit below this line. Automatically pulls in resources. -->
 
 [social_links]
 
