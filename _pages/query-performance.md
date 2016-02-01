@@ -10,7 +10,7 @@ published: true
 ---
 ## Query Performance
 
-### The Database is the Ultimate Bottleneck
+### The Database Is the Ultimate Bottleneck
 
 Your website’s database is the ultimate bottleneck when scaling. The two caching strategies we’ve outlined mostly serve to prevent load on the database. But, when do you need to scale your database, an elastic architecture allows you increase your capacity for read queries through the use of replicas.
 
