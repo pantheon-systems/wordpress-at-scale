@@ -1,10 +1,10 @@
 ---
 ID: 13
 post_title: Page Caching
-author: admin
+author: Josh Koenig
 post_date: 2015-12-04 10:00:19
 post_excerpt: >
-  The Key To Internet-Scale Traffic is
+  The Key to Internet-Scale Traffic is
   Reverse-Proxy Caching
 layout: page
 permalink: http://www.scalewp.io/page-caching/
