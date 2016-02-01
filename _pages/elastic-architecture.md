@@ -1,10 +1,10 @@
 ---
 ID: 11
 post_title: Elastic Architecture
-author: admin
+author: Josh Koenig
 post_date: 2015-12-04 09:59:36
 post_excerpt: >
-  Horizontal Scalability is the
+  Horizontal Scalability Is the
   Scalability That Matters
 layout: page
 permalink: >
