@@ -3,7 +3,7 @@ ID: 18
 post_title: Query Performance
 author: Josh Koenig
 post_date: 2015-12-04 10:38:02
-post_excerpt: The Database is the Ultimate Bottleneck
+post_excerpt: The Database Is the Ultimate Bottleneck
 layout: page
 permalink: http://www.scalewp.io/query-performance/
 published: true
