@@ -12,7 +12,7 @@ permalink: >
 published: true
 ---
 
-## Scalable Means Agile
+## Scale Your Development Process
 
 ### Measure Twice. Cut Once. Revert as Needed.
 

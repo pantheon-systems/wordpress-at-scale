@@ -12,7 +12,7 @@ permalink: >
 published: true
 ---
 
-## Faster, More Relevant Results
+## Enjoy Faster, More Relevant Results
 
 ### Improved User Experience and Database Performance? Yes Please. 
 

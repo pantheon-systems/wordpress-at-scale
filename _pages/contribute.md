@@ -9,7 +9,7 @@ permalink: http://www.scalewp.io/contribute/
 published: true
 ---
 
-## Contributing to this Website
+## Contribute to this Website
 
 ### Pull Requests are Welcome!
 

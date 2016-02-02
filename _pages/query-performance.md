@@ -3,15 +3,15 @@ ID: 18
 post_title: Query Performance
 author: Josh Koenig
 post_date: 2015-12-04 10:38:02
-post_excerpt: The Database Is the Ultimate Bottleneck
+post_excerpt: The Database is the Ultimate Bottleneck
 layout: page
 permalink: http://www.scalewp.io/query-performance/
 published: true
 ---
 
-## Database Replicas
+## Scale Your Queries
 
-### Eventually Even Great Caching Isn't Enough
+### Database Replicas, When Great Caching Just Isn't Enough
 
 Your website’s database is the ultimate bottleneck when scaling. The two caching strategies we’ve outlined mostly serve to prevent load on the database, first by handling pages before they even hit WordPress, and then by making WordPress less dependent on the Database. 
 

@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-## Contributors
+## Meet Our Contributors
 
 ### The Proverbial "Shoulders of Giants"
 
