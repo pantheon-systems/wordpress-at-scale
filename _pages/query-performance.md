@@ -21,11 +21,11 @@ However, you'll eventually need to scale your database, most likely to handle a 
 
 WordPress has had support for scalable read replicas for quite some time via the HyperDB plugin. This allows you not only to scale out, but also to implement specific strategies for how queries use the master and replica instances.
 
-For example, it’s easy to configure your site to use the master database for all requests related to administrative or logged-in functionality, while using replicas exclusively for anonymous traffic. This pattern ensures that content editors are always able to use the site, even if it’s under sustained heavy load for normal content-reading use.
+For example, it’s easy to configure your site to use the master database for all requests related to administrative or logged-in functionality, while using replicas exclusively for anonymous traffic. This pattern ensures that content editors are always able to use the site, even if it’s under sustained heavy load for normal content reading use.
 
 ### Avoiding “Queries of Death”
 
-Scaling via database replication still assumes that your queries are generally performant. If your use-case means you have a content footprint (100s of thousands or millions of posts) the WordPress default query builder (aka WP_Query()) may generate “queries of death”: requests to the database that can take several seconds to compute.
+Scaling via database replication still assumes that your queries are generally performant. If your use case means you have a content footprint (100s of thousands or millions of posts) the WordPress default query builder (aka WP_Query()) may generate “queries of death”: requests to the database that can take several seconds to compute.
 
 These are called “queries of death” for a reason. They can suddenly and drastically affect site performance, even to the point of causing downtime. Long-running queries are intensive, often involving the creation of a whole temporary table to compute the result. They bog down database performance for all queries and tie up PHP application capacity, a lose-lose combination.
 
