@@ -27,7 +27,7 @@ Take a look at [these charts from Joe Hoyle at HumanMade](https://hmn.md/2012/12
 
 As concurrency increases, Batcache’s response remain well within the realm of acceptable, under 1/10th of a second. However, a server load of 7 indicates that the application environment is pegged. The engine is redlining. While it’s nice that this flood of visitors are still seeing pages relatively quickly, good luck trying to do anything in the admin area (e.g. fix a crucial typo) with the server load that high.
 
-The good news is that the wider open-source community has been working on this problem since the early days of the internet, as it is a problem shared by every website and web application. There are well-established tools and patterns that can be put to use, which the WordPress community have adopted and integrated as best-practices. The answer for page caching with WordPress at scale is to use a reverse-proxy.
+The good news is that the wider open source community has been working on this problem since the early days of the internet, as it is a problem shared by every website and web application. There are well-established tools and patterns that can be put to use, which the WordPress community have adopted and integrated as best-practices. The answer for page caching with WordPress at scale is to use a reverse-proxy.
 
 <img src="https://raw.githubusercontent.com/pantheon-systems/wordpress-at-scale/master/diagrams/page_caching.png" width="1100" title="Reverse-Proxy Page Caching" />
 
@@ -42,8 +42,8 @@ The most popular open source reverse proxy is Varnish, but Nginx also has revers
 ### Challenges:
 
 * **Cache TTL and Expiration:** Initial communication between WordPress and the reverse proxy happens through the use of HTTP headers which can specify the lifetime, or Time To Live (“TTL”) of a cached page. However, actively expiring or flushing a cache requires additional work — you will have to devise a mechanism for clearing the cache that’s more sustainable than restarting the proxy.
-* **Cookies:** most Proxies rely heavily on browser-side characteristics — e.g. cookies — to decide whether a request can be given a cached response, or if it must be passed back to WordPress. If the reverse proxy, or WordPress, are improperly configured, then too many requests can be sent back to WordPress, which can drastically decrease the effectiveness of the proxy cache. This can present some challenges in a world where there are many different systems using Cookies differently.
-* **Complexity:** for many developers, the conceptual complexity of introducing a new system, and not having the web-browser talk “directly” to WordPress, can create confusion around how to debug problems. Taking the time to insure everyone on the team is comfortable with the implementation is important.
+* **Cookies:** Most Proxies rely heavily on browser-side characteristics — e.g. cookies — to decide whether a request can be given a cached response, or if it must be passed back to WordPress. If the reverse proxy, or WordPress, are improperly configured, then too many requests can be sent back to WordPress, which can drastically decrease the effectiveness of the proxy cache. This can present some challenges in a world where there are many different systems using Cookies differently.
+* **Complexity:** For many developers, the conceptual complexity of introducing a new system, and not having the web-browser talk “directly” to WordPress, can create confusion around how to debug problems. Taking the time to insure everyone on the team is comfortable with the implementation is important.
 
 <!--- Do not edit below this line. Automatically pulls in resources. -->
 
