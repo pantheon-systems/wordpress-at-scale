@@ -1,15 +1,18 @@
 ---
 ID: 7
 post_title: WordPress at Scale
-author: admin
+author: Josh Koenig
 post_date: 2015-12-04 09:54:57
-post_excerpt: "WordPress is moving upmarket, powering high-traffic, mission-critical websites. Find out what it takes to run WordPress at scale."
+post_excerpt: >
+  WordPress is moving upmarket, powering
+  high-traffic, mission-critical websites.
+  Find out what it takes to run WordPress
+  at scale,
 layout: page
 permalink: http://www.scalewp.io/
 published: true
 ---
 <div id="wpas"></div>
-
 ## Can WordPress Scale?
 
 ### Yes. But there are requirements:
