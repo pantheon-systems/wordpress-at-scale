@@ -11,7 +11,8 @@ permalink: >
   http://www.scalewp.io/development-and-workflow/
 published: true
 ---
-## Scalable and Agile Workflow
+
+## Scalable Means Agile
 
 ### Measure Twice. Cut Once. Revert as Needed.
 

@@ -8,9 +8,12 @@ layout: page
 permalink: http://www.scalewp.io/contribute/
 published: true
 ---
-## Contributing to this website
 
-[Contribute to WordPress at Scale on GitHub](https://github.com/pantheon-systems/wordpress-at-scale). We use a version control repository to collaboratively maintain these pages. They have [many authors who have contributed over time](/contributors), and your additional input and insight is welcome!
+## Contributing to this Website
+
+### Pull Requests are Welcome!
+
+We welcome you to [contribute to "WordPress at Scale" on GitHub](https://github.com/pantheon-systems/wordpress-at-scale). We use a version control repository to collaboratively maintain these pages. They have [many authors who have contributed over time](/contributors), and your additional input and insight is welcome!
 
 For more information on how to get started, see the [CONTRIBUTING.md](https://github.com/pantheon-systems/wordpress-at-scale/blob/master/CONTRIBUTING.md) file in the GitHub repository.
 
