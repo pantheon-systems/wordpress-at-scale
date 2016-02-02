@@ -13,7 +13,7 @@ published: true
 
 ### Database Replicas, When Great Caching Just Isn't Enough
 
-Your website’s database is the ultimate bottleneck when scaling. The two caching strategies we’ve outlined mostly serve to prevent load on the database, first by handling pages before they even hit WordPress, and then by making WordPress less dependent on the Database. 
+Your website’s database is the ultimate bottleneck when scaling. The two caching strategies we’ve outlined mostly serve to prevent load on the database, first by handling pages before they even hit WordPress, and then by making WordPress less dependent on the Database.
 
 However, you'll eventually need to scale your database, most likely to handle a high volume of read requests (`SELECT` queries). An elastic architecture allows you increase your capacity through the use of replicas.
 
@@ -43,5 +43,5 @@ Even with best-practice architecture, an important part of scalability hygiene i
 <!--- Do not edit below this line. Automatically pulls in resources. -->
 
 [social_links]
-
+##Further Reading
 [link-library settings="1" categorylistoverride="11"]

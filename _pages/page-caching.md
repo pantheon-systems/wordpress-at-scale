@@ -13,7 +13,7 @@ published: true
 
 ## Handle Internet-Scale Traffic
 
-### Reverse-Proxy Caching — Don't Go Viral Without It. 
+### Reverse-Proxy Caching — Don't Go Viral Without It.
 
 Everyone using WordPress knows caching needs to be a part of their performance and scalability strategy, which is why there are several cache-oriented tools in the top 10 list of WordPress plugins. However, WordPress will never scale if WordPress does all the work.
 
@@ -48,5 +48,5 @@ The most popular open source reverse proxy is Varnish, but Nginx also has revers
 <!--- Do not edit below this line. Automatically pulls in resources. -->
 
 [social_links]
-
+##Further Reading
 [link-library settings="1" categorylistoverride="10"]
