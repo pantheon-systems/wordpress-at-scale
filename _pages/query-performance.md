@@ -3,16 +3,19 @@ ID: 18
 post_title: Query Performance
 author: Josh Koenig
 post_date: 2015-12-04 10:38:02
-post_excerpt: The Database Is the Ultimate Bottleneck
+post_excerpt: The Database is the Ultimate Bottleneck
 layout: page
 permalink: http://www.scalewp.io/query-performance/
 published: true
 ---
-## Query Performance
 
-### The Database is the Ultimate Bottleneck
+## Scale Your Queries
 
-Your website’s database is the ultimate bottleneck when scaling. The two caching strategies we’ve outlined mostly serve to prevent load on the database. But, when do you need to scale your database, an elastic architecture allows you increase your capacity for read queries through the use of replicas.
+### Database Replicas, When Great Caching Just Isn't Enough
+
+Your website’s database is the ultimate bottleneck when scaling. The two caching strategies we’ve outlined mostly serve to prevent load on the database, first by handling pages before they even hit WordPress, and then by making WordPress less dependent on the Database. 
+
+However, you'll eventually need to scale your database, most likely to handle a high volume of read requests (`SELECT` queries). An elastic architecture allows you increase your capacity through the use of replicas.
 
 <img src="https://raw.githubusercontent.com/joshkoenig/wordpress-at-scale/master/diagrams/mysql_replica.png" width="1100" title="Database Replication" />
 

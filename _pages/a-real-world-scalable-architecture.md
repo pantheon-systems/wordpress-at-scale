@@ -11,9 +11,10 @@ permalink: >
   http://www.scalewp.io/a-real-world-scalable-architecture/
 published: true
 ---
-## A Real-World Scalable Architecture
 
-### Don't Panic
+## Putting it all Together
+
+### This Ain't Your Parents' "LAMP Stack"
 
 Putting all these components together, it’s clear that the “stack” has become a lot more complex since WordPress got started. Rather than the classic Linux Apache MySQL PHP (LAMP) configuration, you now have:
 

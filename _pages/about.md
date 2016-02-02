@@ -9,7 +9,8 @@ permalink: >
   http://live-wp-microsite.pantheon.io/about/
 published: true
 ---
-## About WordPress at Scale
+
+## About "WordPress at Scale"
 
 WordPress now powers about [1 in every 4 websites](https://ma.tt/2015/11/seventy-five-to-go/) and continues to grow. Many of these sites have massive audiences and traffic and that [trend is accelerating](https://pantheon.io/blog/wordpress-moves-upmarket). In order to serve this growing market, we need more of our developers to understand how to build WordPress sites that scale.
 

@@ -8,7 +8,10 @@ layout: page
 permalink: http://www.scalewp.io/resources/
 published: true
 ---
-## Resources
+
+## Further Reading
+
+### Knowledge is Power. Arm Yourself. 
 
 In addition to the core content on this site, we maintain a library of quality external resources and implementation guides. If you have additional resource links to suggest, we welcome those contributions. See the [contributing](/contributing/) page for more information.
 

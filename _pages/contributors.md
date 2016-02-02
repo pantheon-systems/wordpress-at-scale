@@ -5,11 +5,11 @@ layout: page
 published: true
 ---
 
-## Contributors
+## Meet Our Contributors
 
-The contents of this website are a result of many individual efforts. 
+### The Proverbial "Shoulders of Giants"
 
-> A list of contributors to the website. This page is still TODO as we gather everyone's preferred one-line bio, headshot, and link. This notice will be removed, and the pages will get cleaned up with some nice formatting when the website itself is published.
+The contents of this website are a result of many individual efforts. This page is still a work in progress as we gather everyone's preferred one-line bio, headshot, and link. 
 
 ### Daniel Bachhuber
 

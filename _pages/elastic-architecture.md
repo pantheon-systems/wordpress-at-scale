@@ -11,7 +11,8 @@ permalink: >
   http://www.scalewp.io/elastic-architecture/
 published: true
 ---
-## Elastic Architecture
+
+## Take the Air-Quotes Out of "Cloud"
 
 ### Horizontal Scalability is the Scalability That Matters
 
