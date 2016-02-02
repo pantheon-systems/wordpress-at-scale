@@ -7,7 +7,7 @@ post_excerpt: >
   WordPress is moving upmarket, powering
   high-traffic, mission-critical websites.
   Find out what it takes to run WordPress
-  at scale,
+  at scale.
 layout: page
 permalink: http://www.scalewp.io/
 published: true
