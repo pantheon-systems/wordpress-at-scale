@@ -33,7 +33,7 @@ Weston Ruter is CTO at [XWP](https://xwp.co/) and has been developing with Web t
 
 ### Scott Walkinshaw
 
-<img srcd="https://secure.gravatar.com/avatar/67a6bfc9d7b9cc186ba77c0863afa912?s=128" />
+<img src="https://www.gravatar.com/avatar/67a6bfc9d7b9cc186ba77c0863afa912?s=128" />
 
 Scott Walkinshaw is one of the members of [Roots](https://roots.io/about/), providing developers with tools to help them build better WordPress sites. 
 
