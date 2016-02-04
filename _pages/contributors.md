@@ -36,3 +36,9 @@ Weston Ruter is CTO at [XWP](https://xwp.co/) and has been developing with Web t
 <img src="https://www.gravatar.com/avatar/3e7d29b527670a058f7c1cb38a23f724?s=128" />
 
 Josh is a co-founder and head of product for [Pantheon](https://pantheon.io), the website management plaform for WordPress and Drupal. He has been building the internet for twenty years, including over a decade specializing in high performance, large scale, and enterprise use-cases. He is supremely grateful to all the fine engineers and developers who've mentored him over the years.
+
+### Steve Persch
+
+<img src="https://secure.gravatar.com/avatar/291fc88bf964f4d833147ca011201d49?size=128px" />
+
+Steve is an Agency and Community Engineer at [Pantheon](https://pantheon.io). Steve spent years building WordPress and Drupal sites for non-profit organizations, higher education institutions, and media companies. He also loves contributing code back to the open source community and speaking at camps and conferences.
