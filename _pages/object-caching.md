@@ -29,9 +29,9 @@ Persisting database objects with a high-performance storage backend is a must-ha
 
 While it’s possible to persist objects within a single PHP instance (e.g. APC), scaling your object cache requires sharing persistence layers among PHP Application servers. If you don’t share the persistent object cache values between PHP application servers, you’ll quickly run into problems of “cache (in)coherency” — when your application servers have different versions of cached objects, leading to buggy behavior.
 
-Further, for all that object caching gives WordPress automatically, it is of even more value for developers when optimizing a particular use case. The challenges of serving varying data to many concurrent logged-in users, or high volumes of dynamic traffic, are the hard problems are that engineers love, and there is no “one size fits all” solution.
+Further, for all that object caching gives WordPress automatically, it is of even more value for developers when optimizing a particular use case. The challenges of serving varying data to many concurrent logged-in users, or high volumes of dynamic traffic, are the hard problems that engineers love, and there is no “one size fits all” solution.
 
-WordPress stores its object cache in as simple named key=&gt;value pairs, so there many backends can serve as a persistent object cache. The most common open source tools for persistent object caching are Memcached and Redis. In addition there are cloud services (e.g. AWS’s ElastiCache, Azure’s Managed Cache) that provide equivalent functionality.
+WordPress stores its object cache as simple named key=&gt;value pairs, so there many backends can serve as a persistent object cache. The most common open source tools for persistent object caching are Memcached and Redis. In addition there are cloud services (e.g. AWS’s ElastiCache, Azure’s Managed Cache) that provide equivalent functionality.
 
 ### Challenges:
 
