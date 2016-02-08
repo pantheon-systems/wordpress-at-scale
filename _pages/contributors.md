@@ -31,6 +31,12 @@ Zack Tollman is Lead Developer at WIRED, and has contributed a great deal of cod
 
 Weston Ruter is CTO at [XWP](https://xwp.co/) and has been developing with Web technologies since the late 90's. He has a degree in Computer Science and has long worked to push the envelope of what can be done on the Web. For most of its life, he has been developing with WordPress, and he is an active contributor and committer to WordPress core, focusing on the Customizer.
 
+### Scott Walkinshaw
+
+<img src="https://www.gravatar.com/avatar/67a6bfc9d7b9cc186ba77c0863afa912?s=128" />
+
+Scott Walkinshaw is one of the members of [Roots](https://roots.io/about/), providing developers with tools to help them build better WordPress sites. 
+
 ### Josh Koenig
 
 <img src="https://www.gravatar.com/avatar/3e7d29b527670a058f7c1cb38a23f724?s=128" />
