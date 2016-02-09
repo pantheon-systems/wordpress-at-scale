@@ -1,4 +1,4 @@
-This repo is linked to the [scalewp.io](https://scalewp.io) website. The core website content is managed here to facilitate contributions from the community. 
+This repo is linked to the [scalewp.io](https://www.scalewp.io) website. The core website content is managed here to facilitate contributions from the community. 
 
 While we do some amount of discussion in issues, the best contributions start with a concrete suggestion in the form of a pull request.
 
