@@ -43,7 +43,7 @@ The most popular open source reverse proxy is Varnish, but Nginx also has revers
 
 * **Cache TTL and Expiration:** Initial communication between WordPress and the reverse proxy happens through the use of HTTP headers which can specify the lifetime, or Time To Live (“TTL”) of a cached page. However, actively expiring or flushing a cache requires additional work — you will have to devise a mechanism for clearing the cache that’s more sustainable than restarting the proxy.
 * **Cookies:** Most Proxies rely heavily on browser-side characteristics — e.g. cookies — to decide whether a request can be given a cached response, or if it must be passed back to WordPress. If the reverse proxy, or WordPress, are improperly configured, then too many requests can be sent back to WordPress, which can drastically decrease the effectiveness of the proxy cache. This can present some challenges in a world where there are many different systems using Cookies differently.
-* **Complexity:** For many developers, the conceptual complexity of introducing a new system, and not having the web-browser talk “directly” to WordPress, can create confusion around how to debug problems. Taking the time to insure everyone on the team is comfortable with the implementation is important.
+* **Complexity:** For many developers, the conceptual complexity of introducing a new system, and not having the web-browser talk “directly” to WordPress, can create confusion around how to debug problems. Taking the time to ensure everyone on the team is comfortable with the implementation is important.
 
 <!--- Do not edit below this line. Automatically pulls in resources. -->
 
