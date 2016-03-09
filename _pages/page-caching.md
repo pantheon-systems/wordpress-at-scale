@@ -15,11 +15,9 @@ published: true
 
 ### Reverse Proxy Caching — Don't Go Viral Without It.
 
-Everyone using WordPress knows caching needs to be a part of their performance and scalability strategy, which is why there are several cache-oriented tools in the top 10 list of WordPress plugins. However, WordPress will never scale if WordPress does all the work.
+Everyone using WordPress knows caching needs to be a part of their performance and scalability strategy, which is why there are several cache-oriented tools in the top 10 list of WordPress plugins, such as Batcache. A page caching plugin can mean the difference between weathering a traffic spike or going down in flames, but when the solution is driven via the app itself, serving repetitive traffic becomes the full-time job of the PHP Application servers, making it more difficult to scale.
 
-The front page of a vanilla WordPress installation with one post requires billions of CPU instructions. Even with the fastest processors and the most highly optimized site, a caching approach that still requires loading the application on every request isn’t a scalable solution.
-
-While a cache plugin can mean the difference between weathering a traffic spike or going down in flames, when the solution is driven via the app itself, serving repetitive traffic becomes the full-time job of the PHP Application servers.
+The front page of a vanilla WordPress installation with one post requires billions of CPU instructions. Even with the fastest processors and the most highly optimized site, a caching approach that still requires loading the application on every request isn’t the optimal solution for scalability.
 
 Take a look at [these charts from Joe Hoyle at HumanMade](https://hmn.md/2012/12/17/testing-batcache-versus-varnish/) comparing Batcache (which loads WordPress to serve its cache) to Varnish (which doesn’t touch WordPress at all):
 
