@@ -33,6 +33,9 @@ In addition to the core content on this site, we maintain a library of quality e
 ### Development and Workflow
 [link-library settings="1" categorylistoverride="13"]
 
+### Why Scale
+[link-library settings="1" categorylistoverride="9"]
+
 Have something to add to this page? [File an issue on GitHub](https://github.com/pantheon-systems/wordpress-at-scale/issues/new?labels=resource) and we can consider adding it to the library.
 
 <!--- Do not edit below this line. Automatically pulls in resources. -->
