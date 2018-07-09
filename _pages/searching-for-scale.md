@@ -39,4 +39,4 @@ Most large-scale sites want a better answer for core content search, and the abi
 
 [social_links]
 ####Further Reading
-[link-library settings="1" categorylistoverride="14"]
+[link-library settings="1" categorylistoverride="22"]

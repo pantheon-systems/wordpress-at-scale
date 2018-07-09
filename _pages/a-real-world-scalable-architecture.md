@@ -46,4 +46,4 @@ Beyond that, there’s another key concern when it comes to running WordPress at
 
 [social_links]
 
-[link-library categorylistoverride="12"]
+[link-library categorylistoverride="20"]
